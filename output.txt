@@ -1,0 +1,5789 @@
+N/A 
+-----------
+N/A 
+-----------
+N/A 
+-----------
+0116比赛结果: 
+time: 00:14
+winner: C. Gauff
+score: 1:6 | 4:6
+-----
+time: 01:50
+winner: M. Sakkari
+score: 1:6 | 4:6
+-----
+time: 03:51
+winner: R. Nadal
+score: 7:5 | 2:6 | 6:4 | 6:1
+-----
+time: 08:34
+winner: I. Swiatek
+score: 6:4 | 7:5
+-----
+time: 11:02
+winner: D. Medvedev
+score: 0:6 | 1:6 | 2:6
+-----
+time: 00:10
+winner: J. Pegula
+score: 6:0 | 6:1
+-----
+time: 01:32
+winner: H. Hurkacz
+score: 7:6 | 6:2 | 6:2
+-----
+time: 03:46
+winner: V. Azarenka
+score: 4:6 | 6:7
+-----
+time: 08:11
+winner: S. Tsitsipas
+score: 6:3 | 6:4 | 7:6
+-----
+time: 10:34
+winner: M. Keys
+score: 6:4 | 3:6 | 6:2
+-----
+time: 00:12
+winner: J. Sinner
+score: 4:6 | 0:6 | 2:6
+-----
+time: 02:29
+winner: P. Kvitova
+score: 6:7 | 2:6
+-----
+time: 04:45
+winner: J. Kubler
+score: 4:6 | 4:6 | 4:6
+-----
+time: 07:27
+winner: F. Auger-Aliassime
+score: 6:1 | 6:7 | 6:7 | 3:6
+-----
+time: 00:10
+winner: D. Collins
+score: 5:7 | 7:5 | 4:6
+-----
+time: 03:36
+winner: F. Tiafoe
+score: 3:6 | 3:6 | 7:6 | 6:7
+-----
+time: 07:22
+winner: C. Norrie
+score: 7:6 | 6:0 | 6:3
+-----
+time: 00:14
+winner: E. Raducanu
+score: 6:3 | 6:2
+-----
+time: 01:54
+winner: D. Shapovalov
+score: 4:6 | 6:4 | 4:6 | 1:6
+-----
+time: 04:37
+winner: B. Krejcikova
+score: 6:3 | 6:1
+-----
+time: 06:10
+winner: A. Molcan
+score: 6:7 | 6:3 | 1:6 | 7:6 | 6:4
+-----
+time: 00:09
+winner: B. Andreescu
+score: 6:2 | 6:4
+-----
+time: 02:09
+winner: C. Burel
+score: 3:6 | 4:6
+-----
+time: 03:44
+winner: J. Ostapenko
+score: 4:6 | 2:6
+-----
+time: 05:12
+winner: J. Millman
+score: 6:7 | 7:5 | 6:7 | 6:2 | 6:3
+-----
+time: 09:38
+winner: X. Wang
+score: 7:6 | 6:4
+-----
+time: 00:11
+winner: T. Etcheverry
+score: 3:6 | 6:3 | 6:4 | 6:4
+-----
+time: 03:24
+winner: A. Kalinina
+score: 3:6 | 1:6
+-----
+time: 05:00
+winner: D. Svrcina
+score: 3:6 | 2:6 | 2:6
+-----
+time: 07:31
+winner: J. Teichmann
+score: 7:5 | 6:1
+-----
+time: 00:06
+winner: C. Bucsa
+score: 2:6 | 6:0 | 6:2
+-----
+time: 02:11
+winner: T. Griekspoor
+score: 6:3 | 7:6 | 6:3
+-----
+time: 04:38
+winner: L. Sonego
+score: 7:6 | 6:3 | 6:7 | 6:1
+-----
+time: 08:10
+winner: K. Juvan
+score: 7:5 | 6:1
+-----
+time: 00:10
+winner: M. Kostyuk
+score: 6:3 | 6:4
+-----
+time: 01:46
+winner: S. Korda
+score: 6:4 | 1:6 | 6:3 | 6:2
+-----
+time: 04:41
+winner: J. Lehecka
+score: 6:3 | 6:3 | 6:3
+-----
+time: 07:10
+winner: N. Podoroska
+score: 0:6 | 3:6
+-----
+time: 08:45
+winner: L. Harris
+score: 4:6 | 1:6 | 7:6 | 6:2 | 6:7
+-----
+time: 00:12
+winner: O. Gadecki
+score: 5:7 | 1:6
+-----
+time: 01:51
+winner: Y. Nishioka
+score: 4:6 | 2:6 | 5:7
+-----
+time: 04:27
+winner: A. Bondar
+score: 6:2 | 2:6 | 6:3
+-----
+time: 06:48
+winner: R. Hijikata
+score: 6:4 | 6:4 | 3:6 | 6:7 | 3:6
+-----
+time: 00:09
+winner: Y. Watanuki
+score: 6:3 | 6:3 | 6:2
+-----
+time: 02:10
+winner: B. Pera
+score: 2:6 | 6:3 | 6:1
+-----
+time: 04:09
+winner: T. Daniel
+score: 5:7 | 2:6 | 6:3 | 3:6
+-----
+time: 00:10
+winner: J. Shang
+score: 2:6 | 4:6 | 7:6 | 5:7
+-----
+time: 03:26
+winner: K. Khachanov
+score: 7:6 | 6:2 | 6:0
+-----
+time: 05:45
+winner: C. Osorio
+score: 4:6 | 1:6
+-----
+time: 07:20
+winner: E. Rybakina
+score: 7:5 | 6:3
+-----
+time: 00:11
+winner: C. Moutet
+score: 6:4 | 5:7 | 6:2 | 4:6 | 7:5
+-----
+time: 04:44
+winner: K. Baindl
+score: 5:7 | 7:6 | 1:6
+-----
+time: 07:53
+winner: L. Zhu
+score: 6:2 | 6:4
+-----
+time: 00:11
+winner: F. Cerundolo
+score: 6:4 | 6:4 | 6:3
+-----
+time: 02:37
+winner: K. Muchova
+score: 2:6 | 1:6
+-----
+time: 04:15
+winner: Q. Zheng
+score: 6:0 | 6:2
+-----
+time: 05:30
+winner: C. Eubanks
+score: 6:3 | 6:7 | 6:3 | 4:6 | 6:4
+-----
+time: 00:11
+winner: D. Shnaider
+score: 6:7 | 5:7
+-----
+time: 02:24
+winner: M. McDonald
+score: 6:7 | 6:7 | 6:1 | 7:6 | 4:6
+-----
+time: 06:46
+winner: C. McNally
+score: 5:7 | 1:6
+-----
+time: 08:43
+winner: C. Lestienne
+score: 3:6 | 6:7 | 3:6
+-----
+time: 00:11
+winner: B. van de Zandschulp
+score: 3:6 | 6:3 | 5:7 | 3:6
+-----
+time: 04:04
+winner: A. Sasnovich
+score: 5:7 | 2:6
+-----
+time: 05:46
+winner: M. Fucsovics
+score: 6:4 | 5:7 | 6:2 | 6:7 | 2:6
+-----
+ERROR 
+-----------
+ERROR 
+-----------
+players: /nfullName: Radu Albot
+gender: M
+nationality: Moldova
+birthPlace: Chisinau, Moldova
+careerPrizeMoney: 4595844
+coach: Magnus Tideman, Vladimir Albot
+-------
+fullName: Marcelo Arevalo
+gender: M
+nationality: El Salvador
+birthPlace: Sonsonate, El Salvador
+careerPrizeMoney: 1829606
+coach: Yari Bernardo, Carlos Teixeira
+-------
+fullName: Bob Bryan
+gender: M
+nationality: United States of America
+birthPlace: Camarillo, CA, USA
+careerPrizeMoney: 15931631
+coach: David Macpherson, Dave Marshall
+-------
+fullName: Mike Bryan
+gender: M
+nationality: United States of America
+birthPlace: Camarillo, CA, USA
+careerPrizeMoney: 16767452
+coach: David Macpherson, Dave Marshall
+-------
+fullName: Rohan Bopanna
+gender: M
+nationality: India
+birthPlace: Bangalore, India
+careerPrizeMoney: 5109763
+coach: Scott Davidoff
+-------
+fullName: Marcos Baghdatis
+gender: M
+nationality: Cyprus
+birthPlace: Limassol, Cyprus
+careerPrizeMoney: 8918917
+coach: Pablo Perez, Juan Francisco Spina
+-------
+fullName: Roberto Bautista Agut
+gender: M
+nationality: Spain
+birthPlace: Castellon de la Plana, Spain
+careerPrizeMoney: 16938486
+coach: Daniel Gimeno-Traver, Tomas Carbonell
+-------
+fullName: Ariel Behar
+gender: M
+nationality: Uruguay
+birthPlace: Montevideo, Uruguay
+careerPrizeMoney: 703537
+coach: Miguel Pastura, James Langford, Victor Recio
+-------
+fullName: Yuki Bhambri
+gender: M
+nationality: India
+birthPlace: New Delhi, India
+careerPrizeMoney: 1093538
+coach: Ankita Bhambri
+-------
+fullName: Nikoloz Basilashvili
+gender: M
+nationality: Georgia
+birthPlace: Tbilisi, Georgia
+careerPrizeMoney: 8662151
+coach: 
+-------
+fullName: Alex Bolt
+gender: M
+nationality: Australia
+birthPlace: Murray Bridge, Australia
+careerPrizeMoney: 1449802
+coach: Jaymon Crabb
+-------
+fullName: Matteo Berrettini
+gender: M
+nationality: Italy
+birthPlace: Rome, Italy
+careerPrizeMoney: 10866733
+coach: Vincenzo Santopadre, Marco Gulisano, Umberto Rianna
+-------
+fullName: Alexander Bublik
+gender: M
+nationality: Kazakhstan
+birthPlace: Gatchina, Russia
+careerPrizeMoney: 4371191
+coach: Artem Suprunov
+-------
+fullName: Juan Sebastian Cabal
+gender: M
+nationality: Colombia
+birthPlace: Cali, Colombia
+careerPrizeMoney: 5104142
+coach: Mariano Hood
+-------
+fullName: Jeremy Chardy
+gender: M
+nationality: France
+birthPlace: Pau, France
+careerPrizeMoney: 10723558
+coach: Philipp Wagner
+-------
+fullName: Pablo Carreno Busta
+gender: M
+nationality: Spain
+birthPlace: Gijon, Spain
+careerPrizeMoney: 15228920
+coach: Samuel Lopez, Jose Antonio Sanchez-de Luna
+-------
+fullName: Marco Cecchinato
+gender: M
+nationality: Italy
+birthPlace: Palermo, Italy
+careerPrizeMoney: 4521047
+coach: Massimo Sartori
+-------
+fullName: Roberto Carballes Baena
+gender: M
+nationality: Spain
+birthPlace: Tenerife, Spain
+careerPrizeMoney: 3397679
+coach: Jose Maria Garrido, Jose Maria Arenas
+-------
+fullName: Borna Coric
+gender: M
+nationality: Croatia
+birthPlace: Zagreb, Croatia
+careerPrizeMoney: 10331247
+coach: Mate Delic
+-------
+fullName: Novak Djokovic
+gender: M
+nationality: Serbia
+birthPlace: Belgrade, Serbia
+careerPrizeMoney: 166861716
+coach: Goran Ivanisevic
+-------
+fullName: Ivan Dodig
+gender: M
+nationality: Croatia
+birthPlace: Medjugorje, Bosnia-Herzegovina
+careerPrizeMoney: 8797509
+coach: Mladen Dodig
+-------
+fullName: Guillermo Duran
+gender: M
+nationality: Argentina
+birthPlace: Tucuman, Argentina
+careerPrizeMoney: 582064
+coach: Gaston Etlis
+-------
+fullName: Marcelo Demoliner
+gender: M
+nationality: Brazil
+birthPlace: Caxias do Sul, Brazil
+careerPrizeMoney: 1174790
+coach: Duda Matos, Joao Zwetsch
+-------
+fullName: Federico Delbonis
+gender: M
+nationality: Argentina
+birthPlace: Azul, Argentina
+careerPrizeMoney: 6033334
+coach: Mariano Hood
+-------
+fullName: Grigor Dimitrov
+gender: M
+nationality: Bulgaria
+birthPlace: Haskovo, Bulgaria
+careerPrizeMoney: 22221047
+coach: 
+-------
+fullName: Damir Dzumhur
+gender: M
+nationality: Bosnia and Herzegovina
+birthPlace: Sarajevo, Bosnia-Herzegovina
+careerPrizeMoney: 4716037
+coach: Ivan Dugandzic
+-------
+fullName: Taro Daniel
+gender: M
+nationality: Japan
+birthPlace: New York, NY, USA
+careerPrizeMoney: 3117749
+coach: 
+-------
+fullName: Laslo Djere
+gender: M
+nationality: Serbia
+birthPlace: Senta, Serbia
+careerPrizeMoney: 4062438
+coach: Jaroslav Levinsky
+-------
+fullName: Daniel Evans
+gender: M
+nationality: United Kingdom
+birthPlace: Birmingham, England
+careerPrizeMoney: 6536029
+coach: Sebastian Prieto
+-------
+fullName: Matthew Ebden
+gender: M
+nationality: Australia
+birthPlace: Durban, South Africa
+careerPrizeMoney: 4431418
+coach: Omar Hejleh
+-------
+fullName: Gastao Elias
+gender: M
+nationality: Portugal
+birthPlace: Lourinha, Portugal
+careerPrizeMoney: 1437524
+coach: Luis Guilherme Balboa
+-------
+fullName: Kyle Edmund
+gender: M
+nationality: United Kingdom
+birthPlace: Johannesburg, South Africa
+careerPrizeMoney: 5952771
+coach: Colin Beecher
+-------
+fullName: Ernesto Escobedo
+gender: M
+nationality: Mexico
+birthPlace: Los Angeles, CA, USA
+careerPrizeMoney: 1506291
+coach: 
+-------
+fullName: Fabio Fognini
+gender: M
+nationality: Italy
+birthPlace: Sanremo, Italy
+careerPrizeMoney: 17601842
+coach: German Gaich
+-------
+fullName: Robert Farah
+gender: M
+nationality: Colombia
+birthPlace: Montreal, Canada
+careerPrizeMoney: 4817986
+coach: Mariano Hood
+-------
+fullName: Marton Fucsovics
+gender: M
+nationality: Hungary
+birthPlace: Nyiregyhaza, Hungary
+careerPrizeMoney: 5618629
+coach: Peter Nagy
+-------
+fullName: Taylor Fritz
+gender: M
+nationality: United States of America
+birthPlace: Rancho Santa Fe, CA, USA
+careerPrizeMoney: 10938699
+coach: Michael Russell, Paul Annacone
+-------
+fullName: Santiago Gonzalez
+gender: M
+nationality: Mexico
+birthPlace: Cordoba, Mexico
+careerPrizeMoney: 2846370
+coach: Matías González
+-------
+fullName: Maximo Gonzalez
+gender: M
+nationality: Argentina
+birthPlace: Tandil, Argentina
+careerPrizeMoney: 3045631
+coach: Martin Rodriguez, Cristian Genessio
+-------
+fullName: Richard Gasquet
+gender: M
+nationality: France
+birthPlace: Beziers, France
+careerPrizeMoney: 20031757
+coach: Julien Cassaigne
+-------
+fullName: Marcel Granollers
+gender: M
+nationality: Spain
+birthPlace: Barcelona, Spain
+careerPrizeMoney: 12234116
+coach: Victor Carceller
+-------
+fullName: Peter Gojowczyk
+gender: M
+nationality: Germany
+birthPlace: Munich, Germany
+careerPrizeMoney: 3745795
+coach: Kristoffer Schimpf
+-------
+fullName: Norbert Gombos
+gender: M
+nationality: Slovakia
+birthPlace: Galanta, Slovakia
+careerPrizeMoney: 2125642
+coach: Tibor Toth
+-------
+fullName: Egor Gerasimov
+gender: M
+nationality: 
+birthPlace: Minsk, Belarus
+careerPrizeMoney: 1918378
+coach: 
+-------
+fullName: Sander Gille
+gender: M
+nationality: Belgium
+birthPlace: Hasselt, Belgium
+careerPrizeMoney: 859160
+coach: Jeff Coetzee
+-------
+fullName: Robin Haase
+gender: M
+nationality: Netherlands
+birthPlace: The Hague, The Netherlands
+careerPrizeMoney: 7885583
+coach: Raymond Knaap
+-------
+fullName: Yannick Hanfmann
+gender: M
+nationality: Germany
+birthPlace: Karlsruhe, Germany
+careerPrizeMoney: 1490088
+coach: Juan Pablo Brzezicki
+-------
+fullName: Quentin Halys
+gender: M
+nationality: France
+birthPlace: Bondy, France
+careerPrizeMoney: 1952710
+coach: Nicolas Devilder
+-------
+fullName: John Isner
+gender: M
+nationality: United States of America
+birthPlace: Greensboro, NC, USA
+careerPrizeMoney: 21870002
+coach: Philip Farmer
+-------
+fullName: Nicolas Jarry
+gender: M
+nationality: Chile
+birthPlace: Santiago, Chile
+careerPrizeMoney: 2534479
+coach: Juan Ozon-Llacer
+-------
+fullName: Raven Klaasen
+gender: M
+nationality: South Africa
+birthPlace: King William's Town, RSA
+careerPrizeMoney: 4001185
+coach: Stephan de Kock
+-------
+fullName: Mikhail Kukushkin
+gender: M
+nationality: Kazakhstan
+birthPlace: Volgograd, Russia
+careerPrizeMoney: 6807977
+coach: 
+-------
+fullName: Austin Krajicek
+gender: M
+nationality: United States of America
+birthPlace: Tampa, FL, USA
+careerPrizeMoney: 2184774
+coach: Philip Farmer
+-------
+fullName: Filip Krajinovic
+gender: M
+nationality: Serbia
+birthPlace: Sombor, Serbia
+careerPrizeMoney: 5937293
+coach: 
+-------
+fullName: Nicolas Kicker
+gender: M
+nationality: Argentina
+birthPlace: Merlo, Argentina
+careerPrizeMoney: 1048674
+coach: Juan Pablo Brzezicki
+-------
+fullName: Wesley Koolhof
+gender: M
+nationality: Netherlands
+birthPlace: Zevenaar, Netherlands
+careerPrizeMoney: 2986188
+coach: Rob Morgan, Mariusz Fyrstenberg
+-------
+fullName: Karen Khachanov
+gender: M
+nationality: 
+birthPlace: Moscow, Russia
+careerPrizeMoney: 12910221
+coach: Jose Clavet, Vedran Martic
+-------
+fullName: Stefan Kozlov
+gender: M
+nationality: United States of America
+birthPlace: Skopje, Macedonia
+careerPrizeMoney: 987398
+coach: Andrei Kozlov
+-------
+fullName: Henri Laaksonen
+gender: M
+nationality: Switzerland
+birthPlace: Lohja, Finland
+careerPrizeMoney: 2325473
+coach: David Pultr
+-------
+fullName: Dusan Lajovic
+gender: M
+nationality: Serbia
+birthPlace: Belgrade, Serbia
+careerPrizeMoney: 7948113
+coach: Jose Perlas
+-------
+fullName: Nicolas Mahut
+gender: M
+nationality: France
+birthPlace: Angers, France
+careerPrizeMoney: 12347725
+coach: Nicolas Copin, Nicolas Renavand
+-------
+fullName: Matwe Middelkoop
+gender: M
+nationality: Netherlands
+birthPlace: Leerdam, The Netherlands
+careerPrizeMoney: 1775541
+coach: Willem-Jan van Hulst, Gerard van Hellemondt
+-------
+fullName: Andy Murray
+gender: M
+nationality: United Kingdom
+birthPlace: Glasgow, Scotland
+careerPrizeMoney: 63413602
+coach: Ivan Lendl
+-------
+fullName: Jamie Murray
+gender: M
+nationality: United Kingdom
+birthPlace: Dunblane, Scotland
+careerPrizeMoney: 5943845
+coach: Louis Cayer, Alan MacDonald
+-------
+fullName: Fabrice Martin
+gender: M
+nationality: France
+birthPlace: Bayonne, France
+careerPrizeMoney: 2007412
+coach: Paul Forsyth
+-------
+fullName: Andres Molteni
+gender: M
+nationality: Argentina
+birthPlace: Buenos Aires, Argentina
+careerPrizeMoney: 1392979
+coach: Leonardo Olguin
+-------
+fullName: Adrian Mannarino
+gender: M
+nationality: France
+birthPlace: Soisy-sous-Montmorency, France
+careerPrizeMoney: 9811782
+coach: Erwann Tortuyaux
+-------
+fullName: Nikola Mektic
+gender: M
+nationality: Croatia
+birthPlace: Zagreb, Croatia
+careerPrizeMoney: 4225772
+coach: Goran Oresic
+-------
+fullName: Thiago Monteiro
+gender: M
+nationality: Brazil
+birthPlace: Fortaleza, Brazil
+careerPrizeMoney: 2869260
+coach: Ruben Ramirez-Hidalgo, Pablo Fuentes
+-------
+fullName: Andreas Mies
+gender: M
+nationality: Germany
+birthPlace: Cologne, Germany
+careerPrizeMoney: 1743273
+coach: Dirk Hortian
+-------
+fullName: Daniil Medvedev
+gender: M
+nationality: 
+birthPlace: Moscow, Russia
+careerPrizeMoney: 26791509
+coach: Gilles Cervara
+-------
+fullName: Nikola Milojevic
+gender: M
+nationality: Serbia
+birthPlace: Belgrade, Serbia
+careerPrizeMoney: 1040964
+coach: Marcos Roy
+-------
+fullName: Maximilian Marterer
+gender: M
+nationality: Germany
+birthPlace: Nuremberg, Germany
+careerPrizeMoney: 2053115
+coach: Gerald Radovici
+-------
+fullName: Ben McLachlan
+gender: M
+nationality: Japan
+birthPlace: Queenstown, New Zealand
+careerPrizeMoney: 1377222
+coach: Riki McLachlan, Lan Bale
+-------
+fullName: Rafael Nadal
+gender: M
+nationality: Spain
+birthPlace: Manacor, Mallorca, Spain
+careerPrizeMoney: 134640719
+coach: Carlos Moya, Marc Lopez, Gustavo Marcaccio
+-------
+fullName: Jeevan Nedunchezhiyan
+gender: M
+nationality: India
+birthPlace: Chennai, India
+careerPrizeMoney: 385384
+coach: Matt Anger
+-------
+fullName: N.Sriram Balaji
+gender: M
+nationality: India
+birthPlace: Coimbatore, India
+careerPrizeMoney: 309491
+coach: Alexander Waske Tennis University
+-------
+fullName: Hugo Nys
+gender: M
+nationality: Monaco
+birthPlace: Evian-les-Bains, France
+careerPrizeMoney: 965065
+coach: Mariusz Fyrstenberg, Kevin Blandy, Guillaume Couillard
+-------
+fullName: Yoshihito Nishioka
+gender: M
+nationality: Japan
+birthPlace: Mie, Japan
+careerPrizeMoney: 4683517
+coach: Christian Zahalka
+-------
+fullName: Cameron Norrie
+gender: M
+nationality: United Kingdom
+birthPlace: Johannesburg, South Africa
+careerPrizeMoney: 8422624
+coach: Facundo Lugones
+-------
+fullName: Philipp Oswald
+gender: M
+nationality: Austria
+birthPlace: Feldkirch, Austria
+careerPrizeMoney: 1459641
+coach: Joachim Kretz
+-------
+fullName: Renzo Olivo
+gender: M
+nationality: Argentina
+birthPlace: Rosario, Argentina
+careerPrizeMoney: 1274756
+coach: Javier Nalbandian, Franco Squillari
+-------
+fullName: Oscar Otte
+gender: M
+nationality: Germany
+birthPlace: Cologne, Germany
+careerPrizeMoney: 2058783
+coach: Peter Moraing
+-------
+fullName: Sebastian Ofner
+gender: M
+nationality: Austria
+birthPlace: Bruck an der Mur, Austria
+careerPrizeMoney: 975282
+coach: Stefan Rettl, Wolfgang Thiem
+-------
+fullName: Guido Pella
+gender: M
+nationality: Argentina
+birthPlace: Bahia Blanca, Argentina
+careerPrizeMoney: 5815634
+coach: Jose Acasuso, Kevin Konfederak
+-------
+fullName: John Peers
+gender: M
+nationality: Australia
+birthPlace: Melbourne, Australia
+careerPrizeMoney: 5218636
+coach: David Collins
+-------
+fullName: Vasek Pospisil
+gender: M
+nationality: Canada
+birthPlace: Vernon, Canada
+careerPrizeMoney: 7047908
+coach: Malek Jaziri
+-------
+fullName: Benoit Paire
+gender: M
+nationality: France
+birthPlace: Avignon, France
+careerPrizeMoney: 10014014
+coach: Dave Marshall
+-------
+fullName: Mate Pavic
+gender: M
+nationality: Croatia
+birthPlace: Split, Croatia
+careerPrizeMoney: 5146768
+coach: Nadja Pavic
+-------
+fullName: Marc Polmans
+gender: M
+nationality: Australia
+birthPlace: Amanzimtoti, South Africa
+careerPrizeMoney: 1330128
+coach: Greg Polmans
+-------
+fullName: Aisam-Ul-Haq Qureshi
+gender: M
+nationality: Pakistan
+birthPlace: Lahore, Pakistan
+careerPrizeMoney: 3684448
+coach: Robert Davis, Jalil Khan, Abid Ali Akbar
+-------
+fullName: Jean-Julien Rojer
+gender: M
+nationality: Netherlands
+birthPlace: Curacao
+careerPrizeMoney: 6463649
+coach: Luis Fernando Manrique
+-------
+fullName: Rajeev Ram
+gender: M
+nationality: United States of America
+birthPlace: Denver, CO, USA
+careerPrizeMoney: 8096675
+coach: Bryan Smith
+-------
+fullName: Edouard Roger-Vasselin
+gender: M
+nationality: France
+birthPlace: Gennevilliers, France
+careerPrizeMoney: 6819517
+coach: Dave Marshall
+-------
+fullName: Miguel Angel Reyes-Varela
+gender: M
+nationality: Mexico
+birthPlace: Guadalajara, Mexico
+careerPrizeMoney: 496828
+coach: Miguel Reyes Varela, Eduardo Vicencio
+-------
+fullName: Albert Ramos-Vinolas
+gender: M
+nationality: Spain
+birthPlace: Barcelona, Spain
+careerPrizeMoney: 9954674
+coach: Jose Maria Diaz, Tiago Leivas
+-------
+fullName: Ramkumar Ramanathan
+gender: M
+nationality: India
+birthPlace: Chennai, India
+careerPrizeMoney: 1161307
+coach: Juan Balcells,Emilio Sanchez Viccario
+-------
+fullName: Andrey Rublev
+gender: M
+nationality: 
+birthPlace: Moscow, Russia
+careerPrizeMoney: 15389775
+coach: Fernando Vicente
+-------
+fullName: Casper Ruud
+gender: M
+nationality: Norway
+birthPlace: Oslo, Norway
+careerPrizeMoney: 13413639
+coach: Christian Ruud
+-------
+fullName: Yuichi Sugita
+gender: M
+nationality: Japan
+birthPlace: Sendai, Japan
+careerPrizeMoney: 3003434
+coach: 
+-------
+fullName: Joao Sousa
+gender: M
+nationality: Portugal
+birthPlace: Guimaraes, Portugal
+careerPrizeMoney: 8186804
+coach: Frederico Marques
+-------
+fullName: John-Patrick Smith
+gender: M
+nationality: Australia
+birthPlace: Townsville, Australia
+careerPrizeMoney: 1601770
+coach: Kent Martino
+-------
+fullName: Cedrik-Marcel Stebe
+gender: M
+nationality: Germany
+birthPlace: Muehlacker, Germany
+careerPrizeMoney: 1576651
+coach: Eddy Kranjcevic
+-------
+fullName: Neal Skupski
+gender: M
+nationality: United Kingdom
+birthPlace: Liverpool, England
+careerPrizeMoney: 2646511
+coach: Ken Skupski, Louis Cayer, Anthony Hardman
+-------
+fullName: Jan-Lennard Struff
+gender: M
+nationality: Germany
+birthPlace: Warstein, Germany
+careerPrizeMoney: 7784012
+coach: Carsten Arriens
+-------
+fullName: Luke Saville
+gender: M
+nationality: Australia
+birthPlace: Barmera, Australia
+careerPrizeMoney: 1278780
+coach: Rohan Williams
+-------
+fullName: Diego Schwartzman
+gender: M
+nationality: Argentina
+birthPlace: Buenos Aires, Argentina
+careerPrizeMoney: 13029269
+coach: Juan Ignacio Chela, Alejandro Fabbri
+-------
+fullName: Joe Salisbury
+gender: M
+nationality: United Kingdom
+birthPlace: London, England
+careerPrizeMoney: 3910234
+coach: Justin Sherring, David O'Hare, Louis Cayer
+-------
+fullName: Denis Shapovalov
+gender: M
+nationality: Canada
+birthPlace: Tel Aviv, Israel
+careerPrizeMoney: 10322285
+coach: Peter Polansky, Mikhail Youzhny
+-------
+fullName: Dominic Thiem
+gender: M
+nationality: Austria
+birthPlace: Wiener Neustadt, Austria
+careerPrizeMoney: 29356546
+coach: Nicolas Massu
+-------
+fullName: Jordan Thompson
+gender: M
+nationality: Australia
+birthPlace: Sydney, Australia
+careerPrizeMoney: 4287152
+coach: Peter Luczak
+-------
+fullName: Frances Tiafoe
+gender: M
+nationality: United States of America
+birthPlace: Hyattsville, MD, USA
+careerPrizeMoney: 7936282
+coach: Wayne Ferreira
+-------
+fullName: Stefanos Tsitsipas
+gender: M
+nationality: Greece
+birthPlace: Athens, Greece
+careerPrizeMoney: 24804858
+coach: Apostolos Tsitsipas, Mark Philippoussis
+-------
+fullName: Fernando Verdasco
+gender: M
+nationality: Spain
+birthPlace: Madrid, Spain
+careerPrizeMoney: 18283125
+coach: Diego Dinomo, David Sanchez, Quino Munoz
+-------
+fullName: Michael Venus
+gender: M
+nationality: New Zealand
+birthPlace: Auckland, New Zealand
+careerPrizeMoney: 3624571
+coach: Davide Sanguinetti, Pat Harrison
+-------
+fullName: Joran Vliegen
+gender: M
+nationality: Belgium
+birthPlace: Maaseik, Belgium
+careerPrizeMoney: 861190
+coach: Jeff Coetzee
+-------
+fullName: Stan Wawrinka
+gender: M
+nationality: Switzerland
+birthPlace: Lausanne, Switzerland
+careerPrizeMoney: 35505830
+coach: Magnus Norman
+-------
+fullName: Jackson Withrow
+gender: M
+nationality: United States of America
+birthPlace: Omaha, NE, USA
+careerPrizeMoney: 529074
+coach: 
+-------
+fullName: Horacio Zeballos
+gender: M
+nationality: Argentina
+birthPlace: Mar del Plata, Argentina
+careerPrizeMoney: 6554275
+coach: Alejandro Lombardo
+-------
+fullName: Alexander Zverev
+gender: M
+nationality: Germany
+birthPlace: Hamburg, Germany
+careerPrizeMoney: 33223053
+coach: Sergi Bruguera, Alexander Zverev Sr.
+-------
+fullName: Kaia Kanepi
+gender: F
+nationality: Estonia
+birthPlace: Haapsalu, Estonia
+careerPrizeMoney: 8066252
+coach: 
+-------
+fullName: Bethanie Mattek-Sands
+gender: F
+nationality: United States of America
+birthPlace: Rochester, MN, USA
+careerPrizeMoney: 8170945
+coach: 
+-------
+fullName: Samantha Stosur
+gender: F
+nationality: Australia
+birthPlace: Brisbane, Australia
+careerPrizeMoney: 20069776
+coach: 
+-------
+fullName: Sania Mirza
+gender: F
+nationality: India
+birthPlace: Mumbai, India
+careerPrizeMoney: 7259346
+coach: 
+-------
+fullName: Kirsten Flipkens
+gender: F
+nationality: Belgium
+birthPlace: Geel, Belgium
+careerPrizeMoney: 6159089
+coach: 
+-------
+fullName: Tatjana Maria
+gender: F
+nationality: Germany
+birthPlace: Bad Saulgau, Germany
+careerPrizeMoney: 4441433
+coach: 
+-------
+fullName: Sara Errani
+gender: F
+nationality: Italy
+birthPlace: Bologna, Italy
+careerPrizeMoney: 13888656
+coach: 
+-------
+fullName: Monica Niculescu
+gender: F
+nationality: Romania
+birthPlace: Slatina, Romania
+careerPrizeMoney: 6660114
+coach: 
+-------
+fullName: Alicja Rosolska
+gender: F
+nationality: Poland
+birthPlace: Warsaw, Poland
+careerPrizeMoney: 2064775
+coach: 
+-------
+fullName: Laura Siegemund
+gender: F
+nationality: Germany
+birthPlace: Filderstadt, Germany
+careerPrizeMoney: 4247205
+coach: 
+-------
+fullName: Shuai Zhang
+gender: F
+nationality: China
+birthPlace: Tianjin, China
+careerPrizeMoney: 9588874
+coach: 
+-------
+fullName: Latisha Chan
+gender: F
+nationality: Chinese Taipei
+birthPlace: Taipei, Chinese Taipei
+careerPrizeMoney: 5921264
+coach: 
+-------
+fullName: Alizé Cornet
+gender: F
+nationality: France
+birthPlace: Nice, France
+careerPrizeMoney: 9789636
+coach: 
+-------
+fullName: Agnieszka Radwanska
+gender: F
+nationality: Poland
+birthPlace: Krakow, Poland
+careerPrizeMoney: 27683807
+coach: 
+-------
+fullName: Madison Brengle
+gender: F
+nationality: United States of America
+birthPlace: Dover, Delaware, USA
+careerPrizeMoney: 4466816
+coach: 
+-------
+fullName: Arina Rodionova
+gender: F
+nationality: Australia
+birthPlace: Tambov, Russia
+careerPrizeMoney: 1935751
+coach: 
+-------
+fullName: Sorana Cirstea
+gender: F
+nationality: Romania
+birthPlace: Bucharest, Romania
+careerPrizeMoney: 7567715
+coach: 
+-------
+fullName: Evgeniya Rodina
+gender: F
+nationality: 
+birthPlace: Moscow, Russia
+careerPrizeMoney: 2508339
+coach: 
+-------
+fullName: Oksana Kalashnikova
+gender: F
+nationality: Georgia
+birthPlace: Tbilisi, Georgia
+careerPrizeMoney: 1073567
+coach: 
+-------
+fullName: Xinyun Han
+gender: F
+nationality: China
+birthPlace: Jin Zhou, China
+careerPrizeMoney: 1364751
+coach: 
+-------
+fullName: Alison Riske-Amritraj
+gender: F
+nationality: United States of America
+birthPlace: Pittsburgh, PA, USA
+careerPrizeMoney: 6640538
+coach: 
+-------
+fullName: Irina-Camelia Begu
+gender: F
+nationality: Romania
+birthPlace: Bucharest, Romania
+careerPrizeMoney: 7201117
+coach: 
+-------
+fullName: Alexandra Cadantu-Ignatik
+gender: F
+nationality: Romania
+birthPlace: Bucharest, Romania
+careerPrizeMoney: 1142007
+coach: 
+-------
+fullName: Petra Martic
+gender: F
+nationality: Croatia
+birthPlace: Split, Croatia
+careerPrizeMoney: 7453121
+coach: 
+-------
+fullName: Anastasia Pavlyuchenkova
+gender: F
+nationality: 
+birthPlace: Samara, Russia
+careerPrizeMoney: 12461930
+coach: 
+-------
+fullName: Asia Muhammad
+gender: F
+nationality: United States of America
+birthPlace: Long Beach, California, USA
+careerPrizeMoney: 1771287
+coach: 
+-------
+fullName: Karolina Pliskova
+gender: F
+nationality: Czech Republic
+birthPlace: Louny, Czech Republic
+careerPrizeMoney: 24697197
+coach: 
+-------
+fullName: Petra Kvitova
+gender: F
+nationality: Czech Republic
+birthPlace: Bilovec, Czech Republic
+careerPrizeMoney: 35075089
+coach: 
+-------
+fullName: Misaki Doi
+gender: F
+nationality: Japan
+birthPlace: Yokohama, Japan
+careerPrizeMoney: 3932891
+coach: 
+-------
+fullName: Gabriela Dabrowski
+gender: F
+nationality: Canada
+birthPlace: Ottawa, Canada
+careerPrizeMoney: 3768834
+coach: 
+-------
+fullName: CoCo Vandeweghe
+gender: F
+nationality: United States of America
+birthPlace: New York City, NY, USA
+careerPrizeMoney: 8085611
+coach: 
+-------
+fullName: Camila Giorgi
+gender: F
+nationality: Italy
+birthPlace: Macerata, Italy
+careerPrizeMoney: 5741865
+coach: 
+-------
+fullName: Lyudmyla Kichenok
+gender: F
+nationality: Ukraine
+birthPlace: Dnipro, Ukraine
+careerPrizeMoney: 1738095
+coach: 
+-------
+fullName: Nadiia Kichenok
+gender: F
+nationality: Ukraine
+birthPlace: Dnipropetrovsk, Ukraine
+careerPrizeMoney: 1396805
+coach: 
+-------
+fullName: Shuko Aoyama
+gender: F
+nationality: Japan
+birthPlace: Osaka, Japan
+careerPrizeMoney: 2110067
+coach: 
+-------
+fullName: Magda Linette
+gender: F
+nationality: Poland
+birthPlace: Poznan, Poland
+careerPrizeMoney: 4959076
+coach: 
+-------
+fullName: Lesia Tsurenko
+gender: F
+nationality: Ukraine
+birthPlace: Vladimirec, Ukraine
+careerPrizeMoney: 5351995
+coach: 
+-------
+fullName: Mona Barthel
+gender: F
+nationality: Germany
+birthPlace: Bad Segeberg, Germany
+careerPrizeMoney: 4074193
+coach: 
+-------
+fullName: Caroline Garcia
+gender: F
+nationality: France
+birthPlace: Saint-Germain-en-Laye, France
+careerPrizeMoney: 15626291
+coach: 
+-------
+fullName: Ana Bogdan
+gender: F
+nationality: Romania
+birthPlace: Sinaia, Romania
+careerPrizeMoney: 2313598
+coach: 
+-------
+fullName: Natela Dzalamidze
+gender: F
+nationality: Georgia
+birthPlace: N/A
+careerPrizeMoney: 436363
+coach: 
+-------
+fullName: Kristina Mladenovic
+gender: F
+nationality: France
+birthPlace: Saint Pol sur Mer, France
+careerPrizeMoney: 13192785
+coach: 
+-------
+fullName: Sloane Stephens
+gender: F
+nationality: United States of America
+birthPlace: Plantation, FL, USA
+careerPrizeMoney: 17303423
+coach: 
+-------
+fullName: Hao-Ching Chan
+gender: F
+nationality: Chinese Taipei
+birthPlace: Taipei, Chinese Taipei
+careerPrizeMoney: 2818365
+coach: 
+-------
+fullName: Giuliana Olmos
+gender: F
+nationality: Mexico
+birthPlace: Schwarzach, Austria
+careerPrizeMoney: 1073028
+coach: 
+-------
+fullName: Eugenie Bouchard
+gender: F
+nationality: Canada
+birthPlace: Montréal, Canada
+careerPrizeMoney: 6780164
+coach: 
+-------
+fullName: Garbiñe Muguruza
+gender: F
+nationality: Spain
+birthPlace: Caracas, Venezuela
+careerPrizeMoney: 24813379
+coach: 
+-------
+fullName: Viktorija Golubic
+gender: F
+nationality: Switzerland
+birthPlace: Zürich, Switzerland
+careerPrizeMoney: 3305084
+coach: 
+-------
+fullName: Nicole Melichar-Martinez
+gender: F
+nationality: United States of America
+birthPlace: Brno, Czech Republic
+careerPrizeMoney: 2142796
+coach: 
+-------
+fullName: Kateryna Baindl
+gender: F
+nationality: Ukraine
+birthPlace: Nikolayev, Ukraine
+careerPrizeMoney: 2377678
+coach: 
+-------
+fullName: Ons Jabeur
+gender: F
+nationality: Tunisia
+birthPlace: Ksar El Hellar, Tunisia
+careerPrizeMoney: 9339169
+coach: 
+-------
+fullName: Lidziya Marozava
+gender: F
+nationality: 
+birthPlace: Minsk, Belarus
+careerPrizeMoney: 562737
+coach: 
+-------
+fullName: Madison Keys
+gender: F
+nationality: United States of America
+birthPlace: Rock Island, IL, USA
+careerPrizeMoney: 15637757
+coach: 
+-------
+fullName: Heather Watson
+gender: F
+nationality: United Kingdom
+birthPlace: Guernsey
+careerPrizeMoney: 5096686
+coach: 
+-------
+fullName: Timea Babos
+gender: F
+nationality: Hungary
+birthPlace: Sopron, Hungary
+careerPrizeMoney: 8337650
+coach: 
+-------
+fullName: Maryna Zanevska
+gender: F
+nationality: Belgium
+birthPlace: Odessa, Ukraine
+careerPrizeMoney: 1655234
+coach: 
+-------
+fullName: Eri Hozumi
+gender: F
+nationality: Japan
+birthPlace: Kanagawa, Japan
+careerPrizeMoney: 1083368
+coach: 
+-------
+fullName: Lin Zhu
+gender: F
+nationality: China
+birthPlace: Wuxi, China
+careerPrizeMoney: 2157600
+coach: 
+-------
+fullName: Lauren Davis
+gender: F
+nationality: United States of America
+birthPlace: Gates Mills, OH, USA
+careerPrizeMoney: 4341657
+coach: 
+-------
+fullName: Shelby Rogers
+gender: F
+nationality: United States of America
+birthPlace: Mount Pleasant, SC, USA
+careerPrizeMoney: 5078672
+coach: 
+-------
+fullName: Sachia Vickery
+gender: F
+nationality: United States of America
+birthPlace: Miramar, FL, USA
+careerPrizeMoney: 1619398
+coach: 
+-------
+fullName: Demi Schuurs
+gender: F
+nationality: Netherlands
+birthPlace: Sittard, Netherlands
+careerPrizeMoney: 2192469
+coach: 
+-------
+fullName: Zhaoxuan Yang
+gender: F
+nationality: China
+birthPlace: Beijing, China
+careerPrizeMoney: 1649698
+coach: 
+-------
+fullName: Viktoriya Tomova
+gender: F
+nationality: Bulgaria
+birthPlace: Sofia, Bulgaria
+careerPrizeMoney: 1344574
+coach: 
+-------
+fullName: Miyu Kato
+gender: F
+nationality: Japan
+birthPlace: N/A
+careerPrizeMoney: 941625
+coach: 
+-------
+fullName: Yulia Putintseva
+gender: F
+nationality: Kazakhstan
+birthPlace: Moscow, Russia
+careerPrizeMoney: 6335701
+coach: 
+-------
+fullName: Danka Kovinic
+gender: F
+nationality: Montenegro
+birthPlace: Cetinje, Montenegro
+careerPrizeMoney: 2843093
+coach: 
+-------
+fullName: Bernarda Pera
+gender: F
+nationality: United States of America
+birthPlace: Zadar, Croatia
+careerPrizeMoney: 2849290
+coach: 
+-------
+fullName: Aliaksandra Sasnovich
+gender: F
+nationality: 
+birthPlace: Minsk, Belarus
+careerPrizeMoney: 4903858
+coach: 
+-------
+fullName: Storm Hunter
+gender: F
+nationality: Australia
+birthPlace: Rockhampton, Australia
+careerPrizeMoney: 1722285
+coach: 
+-------
+fullName: Alison Van Uytvanck
+gender: F
+nationality: Belgium
+birthPlace: Vilvoorde, Belgium
+careerPrizeMoney: 4249943
+coach: 
+-------
+fullName: Makoto Ninomiya
+gender: F
+nationality: Japan
+birthPlace: Hiroshima, Japan
+careerPrizeMoney: 1042830
+coach: 
+-------
+fullName: Desirae Krawczyk
+gender: F
+nationality: United States of America
+birthPlace: Palm Desert, CA, USA
+careerPrizeMoney: 1519861
+coach: 
+-------
+fullName: Irina Khromacheva
+gender: F
+nationality: 
+birthPlace: Moscow, Russia
+careerPrizeMoney: 902361
+coach: 
+-------
+fullName: Elise Mertens
+gender: F
+nationality: Belgium
+birthPlace: Leuven, Belgium
+careerPrizeMoney: 11242799
+coach: 
+-------
+fullName: Tereza Martincova
+gender: F
+nationality: Czech Republic
+birthPlace: Prague , Czech Republic
+careerPrizeMoney: 2026734
+coach: 
+-------
+fullName: Beatriz Haddad Maia
+gender: F
+nationality: Brazil
+birthPlace: Sao Paulo, Brazil
+careerPrizeMoney: 2777116
+coach: 
+-------
+fullName: Maria Sakkari
+gender: F
+nationality: Greece
+birthPlace: Athens, Greece
+careerPrizeMoney: 8603018
+coach: 
+-------
+fullName: Barbora Krejcikova
+gender: F
+nationality: Czech Republic
+birthPlace: Brno, Czech Republic
+careerPrizeMoney: 9246950
+coach: 
+-------
+fullName: Irina Bara
+gender: F
+nationality: Romania
+birthPlace: Stei, Romania
+careerPrizeMoney: 1318079
+coach: 
+-------
+fullName: Anett Kontaveit
+gender: F
+nationality: Estonia
+birthPlace: Tallinn, Estonia
+careerPrizeMoney: 7930128
+coach: 
+-------
+fullName: Donna Vekic
+gender: F
+nationality: Croatia
+birthPlace: Osijek, Croatia
+careerPrizeMoney: 6064774
+coach: 
+-------
+fullName: Taylor Townsend
+gender: F
+nationality: United States of America
+birthPlace: Chicago, IL, USA
+careerPrizeMoney: 2947400
+coach: 
+-------
+fullName: Ekaterina Alexandrova
+gender: F
+nationality: 
+birthPlace: Chelyabinsk, Russia
+careerPrizeMoney: 4397087
+coach: 
+-------
+fullName: Nadia Podoroska
+gender: F
+nationality: Argentina
+birthPlace: Rosario, Argentina
+careerPrizeMoney: 1688262
+coach: 
+-------
+fullName: Jasmine Paolini
+gender: F
+nationality: Italy
+birthPlace: Castelnuovo di Garfagnana, Italy
+careerPrizeMoney: 1905134
+coach: 
+-------
+fullName: Veronika Kudermetova
+gender: F
+nationality: 
+birthPlace: Kazan,Russia
+careerPrizeMoney: 5106696
+coach: 
+-------
+fullName: Tamara Korpatsch
+gender: F
+nationality: Germany
+birthPlace: Hamburg, Germany
+careerPrizeMoney: 866848
+coach: 
+-------
+fullName: Jelena Ostapenko
+gender: F
+nationality: Latvia
+birthPlace: Riga, Latvia
+careerPrizeMoney: 12223021
+coach: 
+-------
+fullName: Lizette Cabrera
+gender: F
+nationality: Australia
+birthPlace: Townsville, Australia
+careerPrizeMoney: 992722
+coach: 
+-------
+fullName: Nao Hibino
+gender: F
+nationality: Japan
+birthPlace: Aichi, Japan
+careerPrizeMoney: 2552692
+coach: 
+-------
+fullName: Katerina Siniakova
+gender: F
+nationality: Czech Republic
+birthPlace: Hradec Kralove, Czech Republic
+careerPrizeMoney: 9555431
+coach: 
+-------
+fullName: Priscilla Hon
+gender: F
+nationality: Australia
+birthPlace: Brisbane, Australia
+careerPrizeMoney: 1076493
+coach: 
+-------
+fullName: Ana Konjuh
+gender: F
+nationality: Croatia
+birthPlace: Dubrovnik, Croatia
+careerPrizeMoney: 2861056
+coach: 
+-------
+fullName: Aryna Sabalenka
+gender: F
+nationality: 
+birthPlace: Minsk, Belarus
+careerPrizeMoney: 14382781
+coach: 
+-------
+fullName: Jil Teichmann
+gender: F
+nationality: Switzerland
+birthPlace: Barcelona, Spain
+careerPrizeMoney: 3093196
+coach: 
+-------
+fullName: Sofia Kenin
+gender: F
+nationality: United States of America
+birthPlace: Moscow, Russia
+careerPrizeMoney: 8169915
+coach: 
+-------
+fullName: Caroline Dolehide
+gender: F
+nationality: United States of America
+birthPlace: Hinsdale, IL, USA
+careerPrizeMoney: 1622892
+coach: 
+-------
+fullName: Daria Kasatkina
+gender: F
+nationality: 
+birthPlace: Togliatty, Russia
+careerPrizeMoney: 9230258
+coach: 
+-------
+fullName: Viktoria Kuzmova
+gender: F
+nationality: Slovakia
+birthPlace: Kosice, Slovakia
+careerPrizeMoney: 2294069
+coach: 
+-------
+fullName: Kayla Day
+gender: F
+nationality: United States of America
+birthPlace: Santa Barbara, USA
+careerPrizeMoney: 514805
+coach: 
+-------
+fullName: Marketa Vondrousova
+gender: F
+nationality: Czech Republic
+birthPlace: Sokolov, CZE
+careerPrizeMoney: 5000041
+coach: 
+-------
+fullName: Anna Kalinskaya
+gender: F
+nationality: 
+birthPlace: Moscow, Russia
+careerPrizeMoney: 1954284
+coach: 
+-------
+fullName: Anna Blinkova
+gender: F
+nationality: 
+birthPlace: Moscow, Russia
+careerPrizeMoney: 2281924
+coach: 
+-------
+fullName: Michael Mmoh
+gender: M
+nationality: United States of America
+birthPlace: Riyadh, Saudi Arabia
+careerPrizeMoney: 1566785
+coach: Zack Evenden
+-------
+fullName: Kaitlyn Christian
+gender: F
+nationality: United States of America
+birthPlace: Orange, CA, USA
+careerPrizeMoney: 581954
+coach: 
+-------
+fullName: Anna Karolina Schmiedlova
+gender: F
+nationality: Slovakia
+birthPlace: Kosice, Slovakia
+careerPrizeMoney: 3597255
+coach: 
+-------
+fullName: Bianca Andreescu
+gender: F
+nationality: Canada
+birthPlace: Mississauga, Ontario, Canada
+careerPrizeMoney: 8329811
+coach: 
+-------
+fullName: Pablo Andujar
+gender: M
+nationality: Spain
+birthPlace: Cuenca, Spain
+careerPrizeMoney: 6989678
+coach: Marcos Esparcia
+-------
+fullName: Franco Agamenone
+gender: M
+nationality: Italy
+birthPlace: Rio Cuarto, Argentina
+careerPrizeMoney: 361541
+coach: Andrea Trono
+-------
+fullName: Daniel Altmaier
+gender: M
+nationality: Germany
+birthPlace: Kempen, Germany
+careerPrizeMoney: 1297016
+coach: Alberto Mancini
+-------
+fullName: Felix Auger-Aliassime
+gender: M
+nationality: Canada
+birthPlace: Montreal, Canada
+careerPrizeMoney: 10445865
+coach: Frederic Fontang, Toni Nadal
+-------
+fullName: Sebastian Baez
+gender: M
+nationality: Argentina
+birthPlace: Buenos Aires, Argentina
+careerPrizeMoney: 1353035
+coach: Sebastian Gutierrez
+-------
+fullName: Jenson Brooksby
+gender: M
+nationality: United States of America
+birthPlace: Sacramento, CA, USA
+careerPrizeMoney: 2035768
+coach: Joseph Gilbert, Nick Bezzubchenko
+-------
+fullName: Simone Bolelli
+gender: M
+nationality: Italy
+birthPlace: Bologna, Italy
+careerPrizeMoney: 6055987
+coach: 
+-------
+fullName: Tomislav Brkic
+gender: M
+nationality: Bosnia and Herzegovina
+birthPlace: Mostar, Bosnia & Herzegovina
+careerPrizeMoney: 668129
+coach: Alberto Castellani
+-------
+fullName: Facundo Bagnis
+gender: M
+nationality: Argentina
+birthPlace: Rosario, Argentina
+careerPrizeMoney: 2659408
+coach: Antonio Pastorino
+-------
+fullName: Liam Broady
+gender: M
+nationality: United Kingdom
+birthPlace: Stockport, England
+careerPrizeMoney: 1463250
+coach: David Sammel
+-------
+fullName: Riccardo Bonadio
+gender: M
+nationality: Italy
+birthPlace: San Vito al Tagliamento, Italy
+careerPrizeMoney: 318171
+coach: Mattia Livraghi, Uros Vico, Marco Cassiani
+-------
+fullName: Gregoire Barrere
+gender: M
+nationality: France
+birthPlace: Charenton-le-Pont, France
+careerPrizeMoney: 1801064
+coach: Nicolas Copin
+-------
+fullName: Benjamin Bonzi
+gender: M
+nationality: France
+birthPlace: Nimes, France
+careerPrizeMoney: 2035574
+coach: Lionel Zimbler
+-------
+fullName: Gijs Brouwer
+gender: M
+nationality: Netherlands
+birthPlace: Houston, TX, USA
+careerPrizeMoney: 322754
+coach: Michiel Schapers
+-------
+fullName: Antoine Bellier
+gender: M
+nationality: Switzerland
+birthPlace: Geneva, Switzerland
+careerPrizeMoney: 237743
+coach: Jean-Rene Lisnard
+-------
+fullName: Tomas Barrios Vera
+gender: M
+nationality: Chile
+birthPlace: Chillan, Chile
+careerPrizeMoney: 486576
+coach: Guillermo Gomez
+-------
+fullName: Nuno Borges
+gender: M
+nationality: Portugal
+birthPlace: Maia, Portugal
+careerPrizeMoney: 550441
+coach: Rui Machado
+-------
+fullName: Zizou Bergs
+gender: M
+nationality: Belgium
+birthPlace: Lommel, Belgium
+careerPrizeMoney: 447774
+coach: Bertrand Tinck
+-------
+fullName: Geoffrey Blancaneaux
+gender: M
+nationality: France
+birthPlace: Paris, France
+careerPrizeMoney: 547351
+coach: Xavier Le Gall, Salame Bakfalouni, Maximilien Blancaneaux
+-------
+fullName: Raul Brancaccio
+gender: M
+nationality: Italy
+birthPlace: Torre del Greco, Italy
+careerPrizeMoney: 278338
+coach: Ciro Figaro
+-------
+fullName: Francisco Cerundolo
+gender: M
+nationality: Argentina
+birthPlace: Buenos Aires, Argentina
+careerPrizeMoney: 1789688
+coach: Kevin Konfederak
+-------
+fullName: Maxime Cressy
+gender: M
+nationality: United States of America
+birthPlace: Paris, France
+careerPrizeMoney: 1908129
+coach: Romain Sichez, Juanjo Climent
+-------
+fullName: Nikola Cacic
+gender: M
+nationality: Serbia
+birthPlace: Banja Luka, Bosnia-Herzegovina
+careerPrizeMoney: 909076
+coach: Alberto Castellani
+-------
+fullName: Federico Coria
+gender: M
+nationality: Argentina
+birthPlace: Rosario, Argentina
+careerPrizeMoney: 2070960
+coach: Andres Schneiter
+-------
+fullName: Pedro Cachin
+gender: M
+nationality: Argentina
+birthPlace: Bell Ville, Argentina
+careerPrizeMoney: 860707
+coach: Dante Gennaro, Alex Corretja
+-------
+fullName: Kimmer Coppejans
+gender: M
+nationality: Belgium
+birthPlace: Oostende, Belgium
+careerPrizeMoney: 904495
+coach: Michael Lynch, Carl Maes
+-------
+fullName: Enzo Couacaud
+gender: M
+nationality: France
+birthPlace: Curepipe, Mauritius
+careerPrizeMoney: 947374
+coach: 
+-------
+fullName: Julian Cash
+gender: M
+nationality: United Kingdom
+birthPlace: Brighton, Great Britain
+careerPrizeMoney: 85020
+coach: 
+-------
+fullName: Francisco Cabral
+gender: M
+nationality: Portugal
+birthPlace: Porto
+careerPrizeMoney: 164121
+coach: 
+-------
+fullName: Facundo Diaz Acosta
+gender: M
+nationality: Argentina
+birthPlace: Buenos Aires, Argentina
+careerPrizeMoney: 186031
+coach: Mariano Monachesi, Mariano Hood
+-------
+fullName: Sadio Doumbia
+gender: M
+nationality: France
+birthPlace: Toulouse, France
+careerPrizeMoney: 308972
+coach: Boubacar Doumbia
+-------
+fullName: James Duckworth
+gender: M
+nationality: Australia
+birthPlace: Sydney, Australia
+careerPrizeMoney: 3228131
+coach: Wayne Arthurs
+-------
+fullName: Hugo Dellien
+gender: M
+nationality: Bolivia
+birthPlace: Trinidad, Bolivia
+careerPrizeMoney: 1643249
+coach: Antonio Pastorino
+-------
+fullName: Alejandro Davidovich Fokina
+gender: M
+nationality: Spain
+birthPlace: Malaga, Spain
+careerPrizeMoney: 3652438
+coach: Jorge Aguirre
+-------
+fullName: Alex de Minaur
+gender: M
+nationality: Australia
+birthPlace: Sydney, Australia
+careerPrizeMoney: 8180727
+coach: Adolfo Gutierrez
+-------
+fullName: Gonzalo Escobar
+gender: M
+nationality: Ecuador
+birthPlace: Manta, Ecuador
+careerPrizeMoney: 674569
+coach: Ana María Constantinescu
+-------
+fullName: Antoine Escoffier
+gender: M
+nationality: France
+birthPlace: Le Pont-De-Beauvoisin
+careerPrizeMoney: 259507
+coach: 
+-------
+fullName: Christopher Eubanks
+gender: M
+nationality: United States of America
+birthPlace: Atlanta, GA, USA
+careerPrizeMoney: 1287766
+coach: Ruan Roelofse
+-------
+fullName: Alexander Erler
+gender: M
+nationality: Austria
+birthPlace: Innsbruck, Austria
+careerPrizeMoney: 279615
+coach: Daniel Huber, Thomas Weindorfer
+-------
+fullName: Tomas Martin Etcheverry
+gender: M
+nationality: Argentina
+birthPlace: La Plata, Argentina
+careerPrizeMoney: 820614
+coach: Walter Grinovero
+-------
+fullName: Juan Pablo Ficovich
+gender: M
+nationality: Argentina
+birthPlace: Buenos Aires, Argentina
+careerPrizeMoney: 362526
+coach: Juan Pablo Gandara
+-------
+fullName: Evan Furness
+gender: M
+nationality: France
+birthPlace: Pontivy, France
+careerPrizeMoney: 250086
+coach: Glenn Le Flochmoen
+-------
+fullName: Hugo Gaston
+gender: M
+nationality: France
+birthPlace: Toulouse, France
+careerPrizeMoney: 1642179
+coach: Marc Barbier
+-------
+fullName: Robert Galloway
+gender: M
+nationality: United States of America
+birthPlace: Columbia, SC, USA
+careerPrizeMoney: 231420
+coach: 
+-------
+fullName: Andrey Golubev
+gender: M
+nationality: Kazakhstan
+birthPlace: Volzhskij, Russia
+careerPrizeMoney: 3207133
+coach: Yuri Schukin, Massimo Puci
+-------
+fullName: Emilio Gomez
+gender: M
+nationality: Ecuador
+birthPlace: Guayaquil, Ecuador
+careerPrizeMoney: 864989
+coach: Andres Schneiter
+-------
+fullName: Marcos Giron
+gender: M
+nationality: United States of America
+birthPlace: Thousand Oaks, CA, USA
+careerPrizeMoney: 2743451
+coach: Maxime Tabatruong, Evan Lee
+-------
+fullName: Lloyd Glasspool
+gender: M
+nationality: United Kingdom
+birthPlace: Birmingham, England
+careerPrizeMoney: 831956
+coach: Oliver Plaskett, Louis Cayer
+-------
+fullName: Cristian Garin
+gender: M
+nationality: Chile
+birthPlace: Santiago, Chile
+careerPrizeMoney: 5087465
+coach: Pepe Vendrell
+-------
+fullName: Andre Goransson
+gender: M
+nationality: Sweden
+birthPlace: Rang, Sweden
+careerPrizeMoney: 329450
+coach: Scott Kintz
+-------
+fullName: Daniel Elahi Galan
+gender: M
+nationality: Colombia
+birthPlace: Bucaramanga, Colombia
+careerPrizeMoney: 1593931
+coach: Santos Galan
+-------
+fullName: Hugo Grenier
+gender: M
+nationality: France
+birthPlace: Montbrison, France
+careerPrizeMoney: 588909
+coach: Gerard Solves
+-------
+fullName: Manuel Guinard
+gender: M
+nationality: France
+birthPlace: Saint-Malo, France
+careerPrizeMoney: 477642
+coach: Sebastien Villette
+-------
+fullName: Tallon Griekspoor
+gender: M
+nationality: Netherlands
+birthPlace: Haarlem, Netherlands
+careerPrizeMoney: 1819339
+coach: Dennis Schenk
+-------
+fullName: Yu Hsiou Hsu
+gender: M
+nationality: Chinese Taipei
+birthPlace: Changhwa
+careerPrizeMoney: 209070
+coach: 
+-------
+fullName: Brandon Holt
+gender: M
+nationality: United States of America
+birthPlace: Rolling Hills, CA, USA
+careerPrizeMoney: 324771
+coach: 
+-------
+fullName: Nick Hardt
+gender: M
+nationality: Dominican Republic
+birthPlace: Santiago De Los Caballeros
+careerPrizeMoney: 117479
+coach: IMG Academy
+-------
+fullName: Tommy Haas
+gender: M
+nationality: Germany
+birthPlace: Hamburg, Germany
+careerPrizeMoney: 13609987
+coach: Christian Groh
+-------
+fullName: Harri Heliovaara
+gender: M
+nationality: Finland
+birthPlace: Helsinki, Finland
+careerPrizeMoney: 892935
+coach: Boris Chernov
+-------
+fullName: Diego Hidalgo
+gender: M
+nationality: Ecuador
+birthPlace: Guayaquil, Ecuador
+careerPrizeMoney: 177349
+coach: Colon Nunez
+-------
+fullName: Hans Hach Verdugo
+gender: M
+nationality: Mexico
+birthPlace: Culiacan, Mexico
+careerPrizeMoney: 265792
+coach: Philip Farmer
+-------
+fullName: Andrew Harris
+gender: M
+nationality: Australia
+birthPlace: Box Hill
+careerPrizeMoney: 358885
+coach: 
+-------
+fullName: Hubert Hurkacz
+gender: M
+nationality: Poland
+birthPlace: Wroclaw, Poland
+careerPrizeMoney: 9281280
+coach: Craig Boynton
+-------
+fullName: Lloyd Harris
+gender: M
+nationality: South Africa
+birthPlace: Cape Town, South Africa
+careerPrizeMoney: 3263547
+coach: Anthony Harris
+-------
+fullName: Marc-Andrea Huesler
+gender: M
+nationality: Switzerland
+birthPlace: Zurich, Switzerland
+careerPrizeMoney: 1019297
+coach: Thiemo Scharfenberger, Juerg Huesler
+-------
+fullName: Ugo Humbert
+gender: M
+nationality: France
+birthPlace: Metz, France
+careerPrizeMoney: 3531940
+coach: Jeremy Chardy, Thierry Ascione
+-------
+fullName: Ilya Ivashka
+gender: M
+nationality: 
+birthPlace: Minsk, Belarus
+careerPrizeMoney: 2717203
+coach: Jose Checa-Calvo
+-------
+fullName: Paul Jubb
+gender: M
+nationality: United Kingdom
+birthPlace: York, England
+careerPrizeMoney: 306159
+coach: 
+-------
+fullName: Omar Jasika
+gender: M
+nationality: Australia
+birthPlace: Melbourne Victoria, Australia
+careerPrizeMoney: 295898
+coach:  Admir Jasika -Mitch
+-------
+fullName: Pavel Kotov
+gender: M
+nationality: 
+birthPlace: Moscow, Russia
+careerPrizeMoney: 456672
+coach: Ivan Poliakov, Igor Chelyshev
+-------
+fullName: Sebastian Korda
+gender: M
+nationality: United States of America
+birthPlace: Bradenton, FL, USA
+careerPrizeMoney: 3119674
+coach: Radek Stepanek, Martin Stepanek
+-------
+fullName: Aleksandar Kovacevic
+gender: M
+nationality: United States of America
+birthPlace: New York City
+careerPrizeMoney: 230692
+coach: Milan Kovacevic, Dean Goldfine
+-------
+fullName: Bradley Klahn
+gender: M
+nationality: United States of America
+birthPlace: Poway, CA, USA
+careerPrizeMoney: 1735761
+coach: David Nainkin
+-------
+fullName: Denis Kudla
+gender: M
+nationality: United States of America
+birthPlace: Kiev, Ukraine
+careerPrizeMoney: 4264328
+coach: Robert Lindstedt
+-------
+fullName: Jason Kubler
+gender: M
+nationality: Australia
+birthPlace: Brisbane, Australia
+careerPrizeMoney: 1689602
+coach: Jarrad Bunt, Stephen Huss
+-------
+fullName: Jozef Kovalik
+gender: M
+nationality: Slovakia
+birthPlace: Bratislava, Slovakia
+careerPrizeMoney: 1590897
+coach: Boris Borgula
+-------
+fullName: Mitchell Krueger
+gender: M
+nationality: United States of America
+birthPlace: Fort Worth, TX, USA
+careerPrizeMoney: 1156995
+coach: Dave Licker
+-------
+fullName: Dimitar Kuzmanov
+gender: M
+nationality: Bulgaria
+birthPlace: Plovdiv, Bulgaria
+careerPrizeMoney: 634418
+coach: Stefan Rangelov
+-------
+fullName: Aslan Karatsev
+gender: M
+nationality: 
+birthPlace: Vladikavkaz, Russia
+careerPrizeMoney: 3484319
+coach: Yahor Yatsyk
+-------
+fullName: Thanasi Kokkinakis
+gender: M
+nationality: Australia
+birthPlace: Adelaide, Australia
+careerPrizeMoney: 2955165
+coach: Todd Langman, Todd Ley
+-------
+fullName: Soonwoo Kwon
+gender: M
+nationality: South Korea
+birthPlace: Sangju, South Korea
+careerPrizeMoney: 2473107
+coach: Daniel Yoo
+-------
+fullName: Lukas Klein
+gender: M
+nationality: Slovakia
+birthPlace: Spisska Nova Ves, Slovakia
+careerPrizeMoney: 270332
+coach: 
+-------
+fullName: Vit Kopriva
+gender: M
+nationality: Czech Republic
+birthPlace: Bilovec, Czech Republic
+careerPrizeMoney: 329762
+coach: Jaroslav Pospisil
+-------
+fullName: Miomir Kecmanovic
+gender: M
+nationality: Serbia
+birthPlace: Belgrade, Serbia
+careerPrizeMoney: 4226685
+coach: Wayne Black
+-------
+fullName: Constant Lestienne
+gender: M
+nationality: France
+birthPlace: Amiens, France
+careerPrizeMoney: 1024881
+coach: 
+-------
+fullName: Laurent Lokoli
+gender: M
+nationality: France
+birthPlace: Bastia, France
+careerPrizeMoney: 407177
+coach: Walter Grunfeld Tennis Academy (WGTA)
+-------
+fullName: Nathaniel Lammons
+gender: M
+nationality: United States of America
+birthPlace: Arlington, TX, USA
+careerPrizeMoney: 383637
+coach: 
+-------
+fullName: Fabian Marozsan
+gender: M
+nationality: Hungary
+birthPlace: Budapest, Hungary
+careerPrizeMoney: 104162
+coach: Miklos Palagyi
+-------
+fullName: Saketh Myneni
+gender: M
+nationality: India
+birthPlace: Vuyyuru
+careerPrizeMoney: 420778
+coach: 
+-------
+fullName: Luis David Martinez
+gender: M
+nationality: Venezuela
+birthPlace: Barquisimeto, Venezuela
+careerPrizeMoney: 227261
+coach: Maurice Ruah
+-------
+fullName: John Millman
+gender: M
+nationality: Australia
+birthPlace: Brisbane, Australia
+careerPrizeMoney: 5436840
+coach: 
+-------
+fullName: Roberto Marcora
+gender: M
+nationality: Italy
+birthPlace: Busto Arsizio, Italy
+careerPrizeMoney: 563613
+coach: Francesco Aldi
+-------
+fullName: Facundo Mena
+gender: M
+nationality: Argentina
+birthPlace: Buenos Aires, Argentina
+careerPrizeMoney: 458823
+coach: Cristobal Saavedra
+-------
+fullName: Mackenzie McDonald
+gender: M
+nationality: United States of America
+birthPlace: Piedmont, CA, USA
+careerPrizeMoney: 3878521
+coach: Robby Ginepri
+-------
+fullName: Gianluca Mager
+gender: M
+nationality: Italy
+birthPlace: Sanremo, Italy
+careerPrizeMoney: 1555684
+coach: Matteo Civarolo, Flavio Cipolla
+-------
+fullName: Rafael Matos
+gender: M
+nationality: Brazil
+birthPlace: Porto Alegre, Brazil
+careerPrizeMoney: 442747
+coach: Franco Ferreiro
+-------
+fullName: Pedro Martinez
+gender: M
+nationality: Spain
+birthPlace: Alzira, Spain
+careerPrizeMoney: 2859215
+coach: Javier Ferrer
+-------
+fullName: Lucas Miedler
+gender: M
+nationality: Austria
+birthPlace: Tulln, Austria
+careerPrizeMoney: 469753
+coach: Wolfgang Thiem
+-------
+fullName: Alexandre Muller
+gender: M
+nationality: France
+birthPlace: Poissy, France
+careerPrizeMoney: 660040
+coach: Xavier Pujo
+-------
+fullName: Jaume Munar
+gender: M
+nationality: Spain
+birthPlace: Santanyi, Mallorca, Spain
+careerPrizeMoney: 3082758
+coach: Tomeu Salva, Gustavo Marcaccio
+-------
+fullName: Alex Molcan
+gender: M
+nationality: Slovakia
+birthPlace: Presov, Slovakia
+careerPrizeMoney: 1510274
+coach: Karol Beck, Marian Vajda
+-------
+fullName: Corentin Moutet
+gender: M
+nationality: France
+birthPlace: Paris, France
+careerPrizeMoney: 2721752
+coach: Petar Popovic
+-------
+fullName: Nicolas Moreno De Alboran
+gender: M
+nationality: United States of America
+birthPlace: New York City
+careerPrizeMoney: 151369
+coach: Glenn Kuma-Mintah
+-------
+fullName: Felipe Meligeni Alves
+gender: M
+nationality: Brazil
+birthPlace: Campinas, Brazil
+careerPrizeMoney: 493557
+coach: Francisco Yunis
+-------
+fullName: Rio Noguchi
+gender: M
+nationality: Japan
+birthPlace: Fukuoka, Japan
+careerPrizeMoney: 163170
+coach: Hiroyuki Kojima
+-------
+fullName: Aleksandr Nedovyesov
+gender: M
+nationality: Kazakhstan
+birthPlace: Alushta, Ukraine
+careerPrizeMoney: 1227330
+coach: Numrid Muhatasov
+-------
+fullName: Albano Olivetti
+gender: M
+nationality: France
+birthPlace: Haguenau, France
+careerPrizeMoney: 580925
+coach: 
+-------
+fullName: Christopher O'Connell
+gender: M
+nationality: Australia
+birthPlace: Sydney, Australia
+careerPrizeMoney: 1327740
+coach: Marinko Matosevic
+-------
+fullName: Genaro Alberto Olivieri
+gender: M
+nationality: Argentina
+birthPlace: Bragado
+careerPrizeMoney: 176514
+coach: Luciano Carluccio
+-------
+fullName: Zsombor Piros
+gender: M
+nationality: Hungary
+birthPlace: Budapest, Hungary
+careerPrizeMoney: 270386
+coach: Attila Piros
+-------
+fullName: Alexei Popyrin
+gender: M
+nationality: Australia
+birthPlace: Sydney, Australia
+careerPrizeMoney: 2801597
+coach: Fernando Bogajo, Xavier Malisse
+-------
+fullName: Tim Puetz
+gender: M
+nationality: Germany
+birthPlace: Frankfurt, Germany
+careerPrizeMoney: 1497925
+coach: Dominik Meffert
+-------
+fullName: Andrea Pellegrino
+gender: M
+nationality: Italy
+birthPlace: Bisceglie
+careerPrizeMoney: 388213
+coach: Giovanni Galuppo
+-------
+fullName: Max Purcell
+gender: M
+nationality: Australia
+birthPlace: Sydney, Australia
+careerPrizeMoney: 1869392
+coach: Nathan Healey
+-------
+fullName: Ryan Peniston
+gender: M
+nationality: United Kingdom
+birthPlace: Southend-on-sea, Essex
+careerPrizeMoney: 413091
+coach: Mark Taylor
+-------
+fullName: Tommy Paul
+gender: M
+nationality: United States of America
+birthPlace: Voorhees, NJ, USA
+careerPrizeMoney: 4366438
+coach: Brad Stine
+-------
+fullName: Jurij Rodionov
+gender: M
+nationality: Austria
+birthPlace: Nuremberg, Germany
+careerPrizeMoney: 694886
+coach: Richard Waite
+-------
+fullName: Lukas Rosol
+gender: M
+nationality: Czech Republic
+birthPlace: Brno, Czech Republic
+careerPrizeMoney: 4703028
+coach: Hynek Fromel
+-------
+fullName: Cristian Rodriguez
+gender: M
+nationality: Colombia
+birthPlace: Bogota, Colombia
+careerPrizeMoney: 200285
+coach: Adriano Albanesi
+-------
+fullName: Alexander Ritschard
+gender: M
+nationality: Switzerland
+birthPlace: Zurich, Switzerland
+careerPrizeMoney: 330452
+coach: Hans Ritschard, Juan Ramirez
+-------
+fullName: Hunter Reese
+gender: M
+nationality: United States of America
+birthPlace: Kennesaw, GA, USA
+careerPrizeMoney: 249491
+coach: 
+-------
+fullName: Arthur Rinderknech
+gender: M
+nationality: France
+birthPlace: Gassin, France
+careerPrizeMoney: 1886046
+coach: Sebastien Villette
+-------
+fullName: Fabien Reboul
+gender: M
+nationality: France
+birthPlace: Toulouse, France
+careerPrizeMoney: 275749
+coach: Philippe Reboul, Kevin Blandy
+-------
+fullName: Emil Ruusuvuori
+gender: M
+nationality: Finland
+birthPlace: Helsinki, Finland
+careerPrizeMoney: 2284956
+coach: Federico Ricci
+-------
+fullName: Santiago Rodriguez Taverna
+gender: M
+nationality: Argentina
+birthPlace: Buenos Aires, Argentina
+careerPrizeMoney: 256573
+coach: Guillermo Franco
+-------
+fullName: Radek Stepanek
+gender: M
+nationality: Czech Republic
+birthPlace: Karvina, Czech Republic
+careerPrizeMoney: 11343464
+coach: Petr Korda
+-------
+fullName: Ivan Sabanov
+gender: M
+nationality: Serbia
+birthPlace: Subotica, Serbia
+careerPrizeMoney: 206484
+coach: Aleksandar Sabanov
+-------
+fullName: Matej Sabanov
+gender: M
+nationality: Serbia
+birthPlace: Subotica, Serbia
+careerPrizeMoney: 261792
+coach: Aleksandar Sabanov
+-------
+fullName: Frederico Ferreira Silva
+gender: M
+nationality: Portugal
+birthPlace: Caldas da Rainha, Portugal
+careerPrizeMoney: 555453
+coach: Pedro Felner
+-------
+fullName: Nino Serdarusic
+gender: M
+nationality: Croatia
+birthPlace: Zagreb, Croatia
+careerPrizeMoney: 430623
+coach: Filip Serdarusic
+-------
+fullName: Lorenzo Sonego
+gender: M
+nationality: Italy
+birthPlace: Turin, Italy
+careerPrizeMoney: 4443740
+coach: Gipo Arbino
+-------
+fullName: Roman Safiullin
+gender: M
+nationality: 
+birthPlace: Podolsk, Russia
+careerPrizeMoney: 953611
+coach: Yahor Yatsyk
+-------
+fullName: Thiago Agustin Tirante
+gender: M
+nationality: Argentina
+birthPlace: La Plata, Argentina
+careerPrizeMoney: 236900
+coach: Javier Nalbandian
+-------
+fullName: Chun-Hsin Tseng
+gender: M
+nationality: Chinese Taipei
+birthPlace: Taipei, Chinese Taipei
+careerPrizeMoney: 720652
+coach: Benjamin Ebrahimzadeh
+-------
+fullName: Marco Trungelliti
+gender: M
+nationality: Argentina
+birthPlace: Santiago del Estero, Argentina
+careerPrizeMoney: 1474143
+coach: Albert Portas, Jean-Baptiste Poux
+-------
+fullName: Carlos Taberner
+gender: M
+nationality: Spain
+birthPlace: Valencia, Spain
+careerPrizeMoney: 1042873
+coach: Carlos Calderon
+-------
+fullName: Alejandro Tabilo
+gender: M
+nationality: Chile
+birthPlace: Toronto, Canada
+careerPrizeMoney: 1009482
+coach: Guillermo Gomez
+-------
+fullName: Petros Tsitsipas
+gender: M
+nationality: Greece
+birthPlace: Athens, Greece
+careerPrizeMoney: 197610
+coach: Apostolos Tsitsipas, Julia Salnikova
+-------
+fullName: Kaichi Uchida
+gender: M
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 374165
+coach: Norberto Valsecchi
+-------
+fullName: David Vega Hernandez
+gender: M
+nationality: Spain
+birthPlace: Las Palmas, Spain
+careerPrizeMoney: 470245
+coach: Toni Colom
+-------
+fullName: Botic van de Zandschulp
+gender: M
+nationality: Netherlands
+birthPlace: Wageningen, Netherlands
+careerPrizeMoney: 2635929
+coach: Peter Lucassen
+-------
+fullName: Aleksandar Vukic
+gender: M
+nationality: Australia
+birthPlace: Sydney, Australia
+careerPrizeMoney: 746801
+coach: 
+-------
+fullName: Juan Pablo Varillas
+gender: M
+nationality: Peru
+birthPlace: Lima, Peru
+careerPrizeMoney: 627612
+coach: Diego Junqueira
+-------
+fullName: Tim van Rijthoven
+gender: M
+nationality: Netherlands
+birthPlace: Roosendaal, The Netherlands
+careerPrizeMoney: 719687
+coach: Igor Sijsling
+-------
+fullName: Andrea Vavassori
+gender: M
+nationality: Italy
+birthPlace: Torino, Italy
+careerPrizeMoney: 681882
+coach: Davide Vavassori
+-------
+fullName: J.J. Wolf
+gender: M
+nationality: United States of America
+birthPlace: Cincinnati, OH, USA
+careerPrizeMoney: 1218133
+coach: Patrick Thompson, David Kass, Matt Vaughn
+-------
+fullName: Tung-Lin Wu
+gender: M
+nationality: Chinese Taipei
+birthPlace: Taichung, Chinese Taipei
+careerPrizeMoney: 303187
+coach: Tsai Chia Yen, Ezra Stump
+-------
+fullName: Yosuke Watanuki
+gender: M
+nationality: Japan
+birthPlace: Saitama, Japan
+careerPrizeMoney: 485350
+coach: Yusuke Watanuki
+-------
+fullName: Yibing Wu
+gender: M
+nationality: China
+birthPlace: Hangzhou, China
+careerPrizeMoney: 507009
+coach: Gerardo Azcurra
+-------
+fullName: Elias Ymer
+gender: M
+nationality: Sweden
+birthPlace: Skara, Sweden
+careerPrizeMoney: 1536335
+coach: Rafael Ymer
+-------
+fullName: Mikael Ymer
+gender: M
+nationality: Sweden
+birthPlace: Skovde, Sweden
+careerPrizeMoney: 2319571
+coach: Frederik Nielsen, Kalle Norberg
+-------
+fullName: Miljan Zekic
+gender: M
+nationality: Serbia
+birthPlace: Belgrade, Serbia
+careerPrizeMoney: 369686
+coach: Slobodan Vojinovic
+-------
+fullName: Zhizhen Zhang
+gender: M
+nationality: China
+birthPlace: Shanghai, China
+careerPrizeMoney: 735970
+coach: Luka Kutanjac
+-------
+fullName: Bernabe Zapata Miralles
+gender: M
+nationality: Spain
+birthPlace: Valencia, Spain
+careerPrizeMoney: 1358987
+coach: Carlos Navarro
+-------
+fullName: Jan Zielinski
+gender: M
+nationality: Poland
+birthPlace: Warsaw, Poland
+careerPrizeMoney: 520751
+coach: Mariusz Fyrstenberg
+-------
+fullName: Alexandra Panova
+gender: F
+nationality: 
+birthPlace: Krasnodar, Russia
+careerPrizeMoney: 1419812
+coach: 
+-------
+fullName: Victoria Azarenka
+gender: F
+nationality: 
+birthPlace: Minsk, Belarus
+careerPrizeMoney: 35574500
+coach: 
+-------
+fullName: Kristina Kucova
+gender: F
+nationality: Slovakia
+birthPlace: Bratislava, Slovakia
+careerPrizeMoney: 1966651
+coach: 
+-------
+fullName: Arantxa Rus
+gender: F
+nationality: Netherlands
+birthPlace: Delft, The Netherlands
+careerPrizeMoney: 2753364
+coach: 
+-------
+fullName: Alexa Guarachi
+gender: F
+nationality: Chile
+birthPlace: Fort Walton Beach, FL, USA
+careerPrizeMoney: 877993
+coach: 
+-------
+fullName: Nuria Parrizas Diaz
+gender: F
+nationality: Spain
+birthPlace: Granada, Spain
+careerPrizeMoney: 1291554
+coach: 
+-------
+fullName: Ekaterine Gorgodze
+gender: F
+nationality: Georgia
+birthPlace: N/A
+careerPrizeMoney: 877252
+coach: 
+-------
+fullName: Vitalia Diatchenko
+gender: F
+nationality: 
+birthPlace: Sochi, Russia
+careerPrizeMoney: 1705929
+coach: 
+-------
+fullName: Paula Ormaechea
+gender: F
+nationality: Argentina
+birthPlace: Sunchales, Argentina
+careerPrizeMoney: 1009707
+coach: 
+-------
+fullName: Na-Lae Han
+gender: F
+nationality: South Korea
+birthPlace: Incheon, South Korea
+careerPrizeMoney: 527581
+coach: 
+-------
+fullName: Ulrikke Eikeri
+gender: F
+nationality: Norway
+birthPlace: Oslo, Norway
+careerPrizeMoney: 643644
+coach: 
+-------
+fullName: Despina Papamichail
+gender: F
+nationality: Greece
+birthPlace: Preveza, Greece
+careerPrizeMoney: 473026
+coach: 
+-------
+fullName: Martina Trevisan
+gender: F
+nationality: Italy
+birthPlace: Florence, Italy
+careerPrizeMoney: 2679815
+coach: 
+-------
+fullName: Reka Luca Jani
+gender: F
+nationality: Hungary
+birthPlace: Siofok, Hungary
+careerPrizeMoney: 734437
+coach: 
+-------
+fullName: Marcela Zacarias
+gender: F
+nationality: Mexico
+birthPlace: San Luis Potosí, Mexico
+careerPrizeMoney: 298559
+coach: 
+-------
+fullName: Nigina Abduraimova
+gender: F
+nationality: Uzbekistan
+birthPlace: Tashkent, Uzbekistan
+careerPrizeMoney: 432254
+coach: 
+-------
+fullName: Danielle Collins
+gender: F
+nationality: United States of America
+birthPlace: St. Petersburg, FL, USA
+careerPrizeMoney: 6041876
+coach: 
+-------
+fullName: Jessica Pegula
+gender: F
+nationality: United States of America
+birthPlace: Buffalo, NY, USA
+careerPrizeMoney: 7685806
+coach: 
+-------
+fullName: Sabrina Santamaria
+gender: F
+nationality: United States of America
+birthPlace: Los Angeles, CA
+careerPrizeMoney: 539116
+coach: 
+-------
+fullName: Su Jeong Jang
+gender: F
+nationality: South Korea
+birthPlace: N/A
+careerPrizeMoney: 606744
+coach: 
+-------
+fullName: Laura Pigossi
+gender: F
+nationality: Brazil
+birthPlace: Sao Paulo, Brazil
+careerPrizeMoney: 540548
+coach: 
+-------
+fullName: Patricia Maria Tig
+gender: F
+nationality: Romania
+birthPlace: Bucharest, Romania
+careerPrizeMoney: 1365079
+coach: 
+-------
+fullName: Robin Anderson
+gender: F
+nationality: United States of America
+birthPlace: Long Branch, NJ, USA
+careerPrizeMoney: 578953
+coach: 
+-------
+fullName: Kathinka Von Deichmann
+gender: F
+nationality: Liechtenstein
+birthPlace: Vaduz, Liechtenstein
+careerPrizeMoney: 430087
+coach: 
+-------
+fullName: Erin Routliffe
+gender: F
+nationality: New Zealand
+birthPlace: Auckland, New Zealand
+careerPrizeMoney: 449765
+coach: 
+-------
+fullName: Ysaline Bonaventure
+gender: F
+nationality: Belgium
+birthPlace: Rocourt, Belgium
+careerPrizeMoney: 1263329
+coach: 
+-------
+fullName: Natalija Stevanovic
+gender: F
+nationality: Serbia
+birthPlace: Nis, Serbia
+careerPrizeMoney: 384585
+coach: 
+-------
+fullName: Rebecca Peterson
+gender: F
+nationality: Sweden
+birthPlace: Stockholm, Sweden
+careerPrizeMoney: 2591846
+coach: 
+-------
+fullName: Carol Zhao
+gender: F
+nationality: Canada
+birthPlace: Chongqing, China
+careerPrizeMoney: 439737
+coach: 
+-------
+fullName: Yana Sizikova
+gender: F
+nationality: 
+birthPlace: Moscow, Russia
+careerPrizeMoney: 304417
+coach: 
+-------
+fullName: Catherine Harrison
+gender: F
+nationality: United States of America
+birthPlace: Tennessee, USA
+careerPrizeMoney: 414026
+coach: 
+-------
+fullName: Kimberley Zimmermann
+gender: F
+nationality: Belgium
+birthPlace: Brussels, Belgium
+careerPrizeMoney: 335094
+coach: 
+-------
+fullName: Aldila Sutjiadi
+gender: F
+nationality: Indonesia
+birthPlace: Jakarta, Indonesia
+careerPrizeMoney: 196908
+coach: 
+-------
+fullName: Vivian Heisen
+gender: F
+nationality: Germany
+birthPlace: Oldenburg, Germany
+careerPrizeMoney: 248643
+coach: 
+-------
+fullName: Barbara Haas
+gender: F
+nationality: Austria
+birthPlace: Linz, Austria
+careerPrizeMoney: 726046
+coach: 
+-------
+fullName: Mayar Sherif
+gender: F
+nationality: Egypt
+birthPlace: Cairo, Egypt
+careerPrizeMoney: 1107263
+coach: 
+-------
+fullName: Chloe Paquet
+gender: F
+nationality: France
+birthPlace: Versailles, France
+careerPrizeMoney: 1108446
+coach: 
+-------
+fullName: Alicia Barnett
+gender: F
+nationality: United Kingdom
+birthPlace: N/A
+careerPrizeMoney: 141480
+coach: 
+-------
+fullName: Belinda Bencic
+gender: F
+nationality: Switzerland
+birthPlace: Flawil, Switzerland
+careerPrizeMoney: 11143919
+coach: 
+-------
+fullName: Anna-Lena Friedsam
+gender: F
+nationality: Germany
+birthPlace: Neuwied, Germany
+careerPrizeMoney: 2129684
+coach: 
+-------
+fullName: Katie Boulter
+gender: F
+nationality: United Kingdom
+birthPlace: Leicester, England
+careerPrizeMoney: 1196103
+coach: 
+-------
+fullName: Valentini Grammatikopoulou
+gender: F
+nationality: Greece
+birthPlace: Kilkis, Greece
+careerPrizeMoney: 712944
+coach: 
+-------
+fullName: Carolina Alves
+gender: F
+nationality: Brazil
+birthPlace: Campinas, Brazil
+careerPrizeMoney: 287164
+coach: 
+-------
+fullName: Jessika Ponchet
+gender: F
+nationality: France
+birthPlace: Bayonne, France
+careerPrizeMoney: 716806
+coach: 
+-------
+fullName: Eudice Chong
+gender: F
+nationality: Hong Kong, China
+birthPlace: N/A
+careerPrizeMoney: 118607
+coach: 
+-------
+fullName: Gabriela Lee
+gender: F
+nationality: Romania
+birthPlace: N/A
+careerPrizeMoney: 356483
+coach: 
+-------
+fullName: Harriet Dart
+gender: F
+nationality: United Kingdom
+birthPlace: Hampstead, London
+careerPrizeMoney: 1805466
+coach: 
+-------
+fullName: Astra Sharma
+gender: F
+nationality: Australia
+birthPlace: Singapore, Singapore
+careerPrizeMoney: 1596802
+coach: 
+-------
+fullName: Anna Danilina
+gender: F
+nationality: Kazakhstan
+birthPlace: N/A
+careerPrizeMoney: 609352
+coach: 
+-------
+fullName: Zoe Hives
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 347966
+coach: 
+-------
+fullName: Ellen Perez
+gender: F
+nationality: Australia
+birthPlace: Shellharbour, NSW
+careerPrizeMoney: 1209009
+coach: 
+-------
+fullName: Harmony Tan
+gender: F
+nationality: France
+birthPlace: Paris, France
+careerPrizeMoney: 1276700
+coach: 
+-------
+fullName: Olivia Tjandramulia
+gender: F
+nationality: Australia
+birthPlace: Jakarta, Indonesia
+careerPrizeMoney: 201143
+coach: 
+-------
+fullName: Louisa Chirico
+gender: F
+nationality: United States of America
+birthPlace: Morristown, NJ, USA
+careerPrizeMoney: 1217890
+coach: 
+-------
+fullName: Magdalena Frech
+gender: F
+nationality: Poland
+birthPlace: Lodz, Poland
+careerPrizeMoney: 1253649
+coach: 
+-------
+fullName: Julia Grabher
+gender: F
+nationality: Austria
+birthPlace: Dornbirn, Austria
+careerPrizeMoney: 569838
+coach: 
+-------
+fullName: Jaqueline Cristian
+gender: F
+nationality: Romania
+birthPlace: N/A
+careerPrizeMoney: 804152
+coach: 
+-------
+fullName: Elena-Gabriela Ruse
+gender: F
+nationality: Romania
+birthPlace: Bucharest, Romania
+careerPrizeMoney: 1312273
+coach: 
+-------
+fullName: Magali Kempen
+gender: F
+nationality: Belgium
+birthPlace: N/A
+careerPrizeMoney: 126452
+coach: 
+-------
+fullName: Anhelina Kalinina
+gender: F
+nationality: Ukraine
+birthPlace: Nova Kakhovka, Ukraine
+careerPrizeMoney: 2026290
+coach: 
+-------
+fullName: Kimberly Birrell
+gender: F
+nationality: Australia
+birthPlace: Düsseldorf, Germany
+careerPrizeMoney: 647618
+coach: 
+-------
+fullName: Aliona Bolsova
+gender: F
+nationality: Spain
+birthPlace: Chisináu, Moldova
+careerPrizeMoney: 1285324
+coach: 
+-------
+fullName: Alana Parnaby
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 65262
+coach: 
+-------
+fullName: Marie Bouzkova
+gender: F
+nationality: Czech Republic
+birthPlace: Prague, Czech Republic
+careerPrizeMoney: 3024021
+coach: 
+-------
+fullName: Luisa Stefani
+gender: F
+nationality: Brazil
+birthPlace: Sao Paulo, Brazil
+careerPrizeMoney: 674148
+coach: 
+-------
+fullName: Dalma Galfi
+gender: F
+nationality: Hungary
+birthPlace: Balatonfured, Hungary
+careerPrizeMoney: 1050289
+coach: 
+-------
+fullName: Sophie Chang
+gender: F
+nationality: United States of America
+birthPlace: Baltimore, Maryland
+careerPrizeMoney: 293895
+coach: 
+-------
+fullName: Cristina Bucsa
+gender: F
+nationality: Spain
+birthPlace: Chisináu, Moldova
+careerPrizeMoney: 947901
+coach: 
+-------
+fullName: Maddison Inglis
+gender: F
+nationality: Australia
+birthPlace: Perth, Australia
+careerPrizeMoney: 928765
+coach: 
+-------
+fullName: Raluka Serban
+gender: F
+nationality: Cyprus
+birthPlace: N/A
+careerPrizeMoney: 241153
+coach: 
+-------
+fullName: Ylena In-Albon
+gender: F
+nationality: Switzerland
+birthPlace: N/A
+careerPrizeMoney: 348251
+coach: 
+-------
+fullName: Greet Minnen
+gender: F
+nationality: Belgium
+birthPlace: Turnhout, Belgium
+careerPrizeMoney: 1560641
+coach: 
+-------
+fullName: Yuriko Miyazaki
+gender: F
+nationality: United Kingdom
+birthPlace: N/A
+careerPrizeMoney: 286410
+coach: 
+-------
+fullName: Katharina Hobgarski
+gender: F
+nationality: Germany
+birthPlace: N/A
+careerPrizeMoney: 217277
+coach: 
+-------
+fullName: Ipek Oz
+gender: F
+nationality: Turkey
+birthPlace: Antalya, Turkey
+careerPrizeMoney: 202409
+coach: 
+-------
+fullName: Kaylah McPhee
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 172970
+coach: 
+-------
+fullName: Rebeka Masarova
+gender: F
+nationality: Spain
+birthPlace: Basel, Switzerland
+careerPrizeMoney: 466111
+coach: 
+-------
+fullName: Karolina Muchova
+gender: F
+nationality: Czech Republic
+birthPlace: Olomouc, Czech Republic
+careerPrizeMoney: 3822010
+coach: 
+-------
+fullName: Katherine Sebov
+gender: F
+nationality: Canada
+birthPlace: N/A
+careerPrizeMoney: 265549
+coach: 
+-------
+fullName: Liudmila Samsonova
+gender: F
+nationality: 
+birthPlace: Olenegorsk, Russia
+careerPrizeMoney: 2270477
+coach: 
+-------
+fullName: Olivia Nicholls
+gender: F
+nationality: United Kingdom
+birthPlace: N/A
+careerPrizeMoney: 100924
+coach: 
+-------
+fullName: Lucia Bronzetti
+gender: F
+nationality: Italy
+birthPlace: Rimini, Italy
+careerPrizeMoney: 967671
+coach: 
+-------
+fullName: Anastasia Gasanova
+gender: F
+nationality: 
+birthPlace: Saratov, Russia
+careerPrizeMoney: 401000
+coach: 
+-------
+fullName: Seone Mendez
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 272249
+coach: 
+-------
+fullName: Ena Shibahara
+gender: F
+nationality: Japan
+birthPlace: Mountain View, CA, USA
+careerPrizeMoney: 1290823
+coach: 
+-------
+fullName: Maria Carle
+gender: F
+nationality: Argentina
+birthPlace: Daireaux, Argentina
+careerPrizeMoney: 228029
+coach: 
+-------
+fullName: Alexandra Bozovic
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 170891
+coach: 
+-------
+fullName: Tereza Mihalikova
+gender: F
+nationality: Slovakia
+birthPlace: Topolcany, Slovakia
+careerPrizeMoney: 290536
+coach: 
+-------
+fullName: Jaimee Fourlis
+gender: F
+nationality: Australia
+birthPlace: Melbourne, Australia
+careerPrizeMoney: 783357
+coach: 
+-------
+fullName: Anna Bondar
+gender: F
+nationality: Hungary
+birthPlace: Szeghalom, Hungary
+careerPrizeMoney: 1037618
+coach: 
+-------
+fullName: Mirjam Bjorklund
+gender: F
+nationality: Sweden
+birthPlace: N/A
+careerPrizeMoney: 386428
+coach: 
+-------
+fullName: Tamara Zidansek
+gender: F
+nationality: Slovenia
+birthPlace: Postonja, Slovenia
+careerPrizeMoney: 2797244
+coach: 
+-------
+fullName: Katie Swan
+gender: F
+nationality: United Kingdom
+birthPlace: Bristol, Great Britain
+careerPrizeMoney: 737185
+coach: 
+-------
+fullName: Lucrezia Stefanini
+gender: F
+nationality: Italy
+birthPlace: Firenze, Italy
+careerPrizeMoney: 390020
+coach: 
+-------
+fullName: Arianne Hartono
+gender: F
+nationality: Netherlands
+birthPlace: N/A
+careerPrizeMoney: 371455
+coach: 
+-------
+fullName: Jodie Burrage
+gender: F
+nationality: United Kingdom
+birthPlace: London, Great Britain
+careerPrizeMoney: 419065
+coach: 
+-------
+fullName: Claire Liu
+gender: F
+nationality: United States of America
+birthPlace: Thousand Oaks, CA, USA
+careerPrizeMoney: 1469744
+coach: 
+-------
+fullName: Miriam Kolodziejova
+gender: F
+nationality: Czech Republic
+birthPlace: Litvinov, Czech Republic
+careerPrizeMoney: 207401
+coach: 
+-------
+fullName: Marina Bassols Ribera
+gender: F
+nationality: Spain
+birthPlace: Blanes, Spain
+careerPrizeMoney: 204574
+coach: 
+-------
+fullName: Elena Rybakina
+gender: F
+nationality: Kazakhstan
+birthPlace: Moscow, Russia
+careerPrizeMoney: 7549927
+coach: 
+-------
+fullName: Destanee Aiava
+gender: F
+nationality: Australia
+birthPlace: Melbourne, Australia
+careerPrizeMoney: 589640
+coach: 
+-------
+fullName: Rosa Vicens Mas
+gender: F
+nationality: Spain
+birthPlace: N/A
+careerPrizeMoney: 100809
+coach: 
+-------
+fullName: Dayana Yastremska
+gender: F
+nationality: Ukraine
+birthPlace: Odessa, Ukraine
+careerPrizeMoney: 2915614
+coach: 
+-------
+fullName: Yue Yuan
+gender: F
+nationality: China
+birthPlace: Yangzhou, China
+careerPrizeMoney: 647987
+coach: 
+-------
+fullName: Katarina Zavatska
+gender: F
+nationality: Ukraine
+birthPlace: Lutsk, Ukraine
+careerPrizeMoney: 705649
+coach: 
+-------
+fullName: Kaja Juvan
+gender: F
+nationality: Slovenia
+birthPlace: Ljubljana, Slovenia
+careerPrizeMoney: 1781013
+coach: 
+-------
+fullName: Mai Hontama
+gender: F
+nationality: Japan
+birthPlace: N/A
+careerPrizeMoney: 405969
+coach: 
+-------
+fullName: Suzan Lamens
+gender: F
+nationality: Netherlands
+birthPlace: N/A
+careerPrizeMoney: 180375
+coach: 
+-------
+fullName: Olga Danilovic
+gender: F
+nationality: Serbia
+birthPlace: Belgrade, Serbia
+careerPrizeMoney: 916551
+coach: 
+-------
+fullName: Anastasia Potapova
+gender: F
+nationality: 
+birthPlace: Saratov, Russia
+careerPrizeMoney: 2050069
+coach: 
+-------
+fullName: Caty McNally
+gender: F
+nationality: United States of America
+birthPlace: Cincinnati, OH, USA
+careerPrizeMoney: 1868289
+coach: 
+-------
+fullName: Simona Waltert
+gender: F
+nationality: Switzerland
+birthPlace: N/A
+careerPrizeMoney: 306028
+coach: 
+-------
+fullName: Varvara Gracheva
+gender: F
+nationality: 
+birthPlace: Moscow, Russia
+careerPrizeMoney: 1679515
+coach: 
+-------
+fullName: Camila Osorio
+gender: F
+nationality: Colombia
+birthPlace: Cúcuta, Colombia
+careerPrizeMoney: 1264573
+coach: 
+-------
+fullName: Jule Niemeier
+gender: F
+nationality: Germany
+birthPlace: Dortmund, Germany
+careerPrizeMoney: 1153384
+coach: 
+-------
+fullName: Panna Udvardy
+gender: F
+nationality: Hungary
+birthPlace: Balatonboglar, Hungary
+careerPrizeMoney: 737379
+coach: 
+-------
+fullName: Alycia Parks
+gender: F
+nationality: United States of America
+birthPlace: Atlanta, Georgia
+careerPrizeMoney: 472669
+coach: 
+-------
+fullName: Ann Li
+gender: F
+nationality: United States of America
+birthPlace: King of Prussia, Pennsylvania, USA
+careerPrizeMoney: 1515336
+coach: 
+-------
+fullName: Xiyu Wang
+gender: F
+nationality: China
+birthPlace: Taixing, Jiang Su Province, China
+careerPrizeMoney: 1051265
+coach: 
+-------
+fullName: Yuki Naito
+gender: F
+nationality: Japan
+birthPlace: Niigata, Japan
+careerPrizeMoney: 347295
+coach: 
+-------
+fullName: Xinyu Wang
+gender: F
+nationality: China
+birthPlace: Shenzhen, Guangdong Province, China
+careerPrizeMoney: 1073168
+coach: 
+-------
+fullName: Amanda Anisimova
+gender: F
+nationality: United States of America
+birthPlace: Freehold, NJ, USA
+careerPrizeMoney: 4020045
+coach: 
+-------
+fullName: Iga Swiatek
+gender: F
+nationality: Poland
+birthPlace: Warsaw, Poland
+careerPrizeMoney: 15356030
+coach: 
+-------
+fullName: Marta Kostyuk
+gender: F
+nationality: Ukraine
+birthPlace: Kiev, Ukraine
+careerPrizeMoney: 2356179
+coach: 
+-------
+fullName: Leylah Fernandez
+gender: F
+nationality: Canada
+birthPlace: Montreal, Quebec
+careerPrizeMoney: 3363256
+coach: 
+-------
+fullName: Diane Parry
+gender: F
+nationality: France
+birthPlace: Nice, France
+careerPrizeMoney: 1117304
+coach: 
+-------
+fullName: Moyuka Uchijima
+gender: F
+nationality: Japan
+birthPlace: Kuala Lumpur, Malaysia
+careerPrizeMoney: 309951
+coach: 
+-------
+fullName: Elisabetta Cocciaretto
+gender: F
+nationality: Italy
+birthPlace: Ancona, Italy
+careerPrizeMoney: 858163
+coach: 
+-------
+fullName: Gustavo Fernandez
+gender: M
+nationality: Argentina
+birthPlace: Rio Tercero, Argentina
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Gordon Reid
+gender: M
+nationality: United Kingdom
+birthPlace: Helensburgh, United Kingdom
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Yui Kamiji
+gender: F
+nationality: Japan
+birthPlace: Akashi, Japan
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Diede De Groot
+gender: F
+nationality: Netherlands
+birthPlace: Woerden, Netherlands
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Aniek Van Koot
+gender: F
+nationality: Netherlands
+birthPlace: Winterswijk, Netherlands
+careerPrizeMoney: 
+coach: 
+-------
+fullName: David Wagner
+gender: M
+nationality: United States of America
+birthPlace: Fullerton, United States of America
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Kgothatso Montjane
+gender: F
+nationality: South Africa
+birthPlace: Johannesburg, South Africa
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Heath Davidson
+gender: M
+nationality: Australia
+birthPlace: Rosebud, Australia
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Timofey Skatov
+gender: M
+nationality: Kazakhstan
+birthPlace: Petropavlovsk, Kazakhstan
+careerPrizeMoney: 293478
+coach: Jose Altur
+-------
+fullName: Tomas Machac
+gender: M
+nationality: Czech Republic
+birthPlace: Beroun, Czech Republic
+careerPrizeMoney: 712580
+coach: Daniel Vacek
+-------
+fullName: Jack Draper
+gender: M
+nationality: United Kingdom
+birthPlace: Sutton, England
+careerPrizeMoney: 1201085
+coach: James Trotman
+-------
+fullName: Lorenzo Musetti
+gender: M
+nationality: Italy
+birthPlace: Carrara, Italy
+careerPrizeMoney: 3056757
+coach: Simone Tartarini
+-------
+fullName: Dalibor Svrcina
+gender: M
+nationality: Czech Republic
+birthPlace: Ostrava
+careerPrizeMoney: 279445
+coach: Jan Masik
+-------
+fullName: Adrian Andreev
+gender: M
+nationality: Bulgaria
+birthPlace: Sofia, Bulgaria
+careerPrizeMoney: 184823
+coach: 
+-------
+fullName: Giulio Zeppieri
+gender: M
+nationality: Italy
+birthPlace: Rome, Italy
+careerPrizeMoney: 313956
+coach: Giuseppe Fischetti
+-------
+fullName: Rinky Hijikata
+gender: M
+nationality: Australia
+birthPlace: Sydney, Australia
+careerPrizeMoney: 694552
+coach: Mark Draper
+-------
+fullName: Clara Burel
+gender: F
+nationality: France
+birthPlace: Rennes, France
+careerPrizeMoney: 1317079
+coach: 
+-------
+fullName: Olivia Gadecki
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 344840
+coach: 
+-------
+fullName: Elysia Bolton
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 48268
+coach: 
+-------
+fullName: Kamilla Rakhimova
+gender: F
+nationality: 
+birthPlace: Yekaterinburg, Russia
+careerPrizeMoney: 925603
+coach: 
+-------
+fullName: Mark Philippoussis
+gender: M
+nationality: Australia
+birthPlace: Melbourne, Australia
+careerPrizeMoney: 6987402
+coach: 
+-------
+fullName: Daniela Hantuchova
+gender: F
+nationality: Slovakia
+birthPlace: Poprad, Czechoslovakia
+careerPrizeMoney: 10436407
+coach: 
+-------
+fullName: Iva Majoli
+gender: F
+nationality: Croatia
+birthPlace: Zagreb, Croatia
+careerPrizeMoney: 4407522
+coach: 
+-------
+fullName: Matheus Pucinelli De Almeida
+gender: M
+nationality: Brazil
+birthPlace: Campinas, Brazil
+careerPrizeMoney: 180465
+coach: Danilo Ferraz
+-------
+fullName: Otto Virtanen
+gender: M
+nationality: Finland
+birthPlace: Hyvinkää
+careerPrizeMoney: 111510
+coach: Pasi Virtanen
+-------
+fullName: Joachim Gerard
+gender: M
+nationality: Belgium
+birthPlace: Limelette, Belgium
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Mattia Bellucci
+gender: M
+nationality: Italy
+birthPlace: Busto Arsizio
+careerPrizeMoney: 142232
+coach: Fabio Chiappini, Bellucci Fabrizio
+-------
+fullName: Nicolas Barrientos
+gender: M
+nationality: Colombia
+birthPlace: Cali, Colombia
+careerPrizeMoney: 372772
+coach: 
+-------
+fullName: Alexis Galarneau
+gender: M
+nationality: Canada
+birthPlace: Laval, Canada
+careerPrizeMoney: 139913
+coach: Yannick Dumas
+-------
+fullName: Nicholas David Ionel
+gender: M
+nationality: Romania
+birthPlace: Bucharest
+careerPrizeMoney: 112199
+coach: Andrei Pavel
+-------
+fullName: Oleksii Krutykh
+gender: M
+nationality: Ukraine
+birthPlace: Kiev
+careerPrizeMoney: 162397
+coach: 
+-------
+fullName: Brandon Nakashima
+gender: M
+nationality: United States of America
+birthPlace: San Diego, CA, USA
+careerPrizeMoney: 2550200
+coach: Eduardo Infantino
+-------
+fullName: Luca Nardi
+gender: M
+nationality: Italy
+birthPlace: Pesaro
+careerPrizeMoney: 244939
+coach: Francesco Sani, Gabriele Costantini
+-------
+fullName: Jannik Sinner
+gender: M
+nationality: Italy
+birthPlace: San Candido, Italy
+careerPrizeMoney: 6842683
+coach: Simone Vagnozzi, Darren Cahill
+-------
+fullName: Alexander Shevchenko
+gender: M
+nationality: 
+birthPlace: Rostov-on-Don, Russia
+careerPrizeMoney: 230069
+coach: Gunter Bresnik
+-------
+fullName: Dane Sweeny
+gender: M
+nationality: Australia
+birthPlace: Penrith
+careerPrizeMoney: 195972
+coach: Clay Sweeny
+-------
+fullName: Rebecca Marino
+gender: F
+nationality: Canada
+birthPlace: Toronto, Canada
+careerPrizeMoney: 1410241
+coach: 
+-------
+fullName: Joanne Zuger
+gender: F
+nationality: Switzerland
+birthPlace: Liestal, Switzerland
+careerPrizeMoney: 188013
+coach: 
+-------
+fullName: Eva Vedder
+gender: F
+nationality: Netherlands
+birthPlace: N/A
+careerPrizeMoney: 104343
+coach: 
+-------
+fullName: Carole Monnet
+gender: F
+nationality: France
+birthPlace: N/A
+careerPrizeMoney: 237983
+coach: 
+-------
+fullName: Elizabeth Mandlik
+gender: F
+nationality: United States of America
+birthPlace: Boca Raton, Florida
+careerPrizeMoney: 325858
+coach: 
+-------
+fullName: Anastasia Tikhonova
+gender: F
+nationality: 
+birthPlace: N/A
+careerPrizeMoney: 182301
+coach: 
+-------
+fullName: Hailey Baptiste
+gender: F
+nationality: United States of America
+birthPlace: N/A
+careerPrizeMoney: 691623
+coach: 
+-------
+fullName: Anastasia Zakharova
+gender: F
+nationality: 
+birthPlace: Volgograd, Russia
+careerPrizeMoney: 254867
+coach: 
+-------
+fullName: Qinwen Zheng
+gender: F
+nationality: China
+birthPlace: Shiyan, Hubei Province, China
+careerPrizeMoney: 1190654
+coach: 
+-------
+fullName: Ekaterina Makarova
+gender: F
+nationality: 
+birthPlace: N/A
+careerPrizeMoney: 109896
+coach: 
+-------
+fullName: Emma Raducanu
+gender: F
+nationality: United Kingdom
+birthPlace: Toronto, Canada
+careerPrizeMoney: 3653686
+coach: 
+-------
+fullName: Coco Gauff
+gender: F
+nationality: United States of America
+birthPlace: Delray Beach, Fl. USA
+careerPrizeMoney: 5891108
+coach: 
+-------
+fullName: Matteo Arnaldi
+gender: M
+nationality: Italy
+birthPlace: Sanremo, Italy
+careerPrizeMoney: 314830
+coach: Alessandro Petrone
+-------
+fullName: Emilio Nava
+gender: M
+nationality: United States of America
+birthPlace: Woodland Hills, CA, USA
+careerPrizeMoney: 359320
+coach: Oscar Martinez
+-------
+fullName: Sinja Kraus
+gender: F
+nationality: Austria
+birthPlace: N/A
+careerPrizeMoney: 109898
+coach: 
+-------
+fullName: Elsa Jacquemot
+gender: F
+nationality: France
+birthPlace: N/A
+careerPrizeMoney: 433399
+coach: 
+-------
+fullName: Katie Volynets
+gender: F
+nationality: United States of America
+birthPlace: Walnut Creek, CA, USA
+careerPrizeMoney: 782730
+coach: 
+-------
+fullName: Francesco Maestrelli
+gender: M
+nationality: Italy
+birthPlace: Pisa, Italy
+careerPrizeMoney: 122145
+coach: Gabrio Castrichella
+-------
+fullName: Darya Astakhova
+gender: F
+nationality: 
+birthPlace: N/A
+careerPrizeMoney: 105914
+coach: 
+-------
+fullName: Jiri Lehecka
+gender: M
+nationality: Czech Republic
+birthPlace: Mlada Boleslav, Czech Republic
+careerPrizeMoney: 1447773
+coach: Michal Navratil
+-------
+fullName: Daria Snigur
+gender: F
+nationality: Ukraine
+birthPlace: Kyiv, Ukraine
+careerPrizeMoney: 409057
+coach: 
+-------
+fullName: Ekaterina Reyngold
+gender: F
+nationality: 
+birthPlace: N/A
+careerPrizeMoney: 68991
+coach: 
+-------
+fullName: Ben Weekes
+gender: M
+nationality: Australia
+birthPlace: Sydney, Australia
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Oksana Selekhmeteva
+gender: F
+nationality: 
+birthPlace: Kamenka, Russia
+careerPrizeMoney: 267579
+coach: 
+-------
+fullName: Selena Janicijevic
+gender: F
+nationality: France
+birthPlace: N/A
+careerPrizeMoney: 272529
+coach: 
+-------
+fullName: Holger Rune
+gender: M
+nationality: Denmark
+birthPlace: Gentofte, Denmark
+careerPrizeMoney: 3248747
+coach: Lars Christensen, Patrick Mouratoglou
+-------
+fullName: Gabriel Diallo
+gender: M
+nationality: Canada
+birthPlace: Montreal
+careerPrizeMoney: 62727
+coach: 
+-------
+fullName: Flavio Cobolli
+gender: M
+nationality: Italy
+birthPlace: Florence, Italy
+careerPrizeMoney: 325368
+coach: Stefano Cobolli
+-------
+fullName: Francesco Passaro
+gender: M
+nationality: Italy
+birthPlace: Perugia, Italy
+careerPrizeMoney: 326183
+coach: Roberto Tarpani
+-------
+fullName: Leolia Jeanjean
+gender: F
+nationality: France
+birthPlace: Montpellier, France
+careerPrizeMoney: 412761
+coach: 
+-------
+fullName: Fernanda Contreras Gomez
+gender: F
+nationality: Mexico
+birthPlace: San Luis Potosi, Mexico
+careerPrizeMoney: 361237
+coach: 
+-------
+fullName: Katrina Scott
+gender: F
+nationality: United States of America
+birthPlace: Los Angeles, California
+careerPrizeMoney: 297382
+coach: 
+-------
+fullName: Ashlyn Krueger
+gender: F
+nationality: United States of America
+birthPlace: Springfield, MO, USA
+careerPrizeMoney: 338000
+coach: 
+-------
+fullName: Eva Lys
+gender: F
+nationality: Germany
+birthPlace: Kiev, Ukraine
+careerPrizeMoney: 210430
+coach: 
+-------
+fullName: Angela Kulikov
+gender: F
+nationality: United States of America
+birthPlace: N/A
+careerPrizeMoney: 65049
+coach: 
+-------
+fullName: Elina Avanesyan
+gender: F
+nationality: 
+birthPlace: Pyatigorsk, Russia
+careerPrizeMoney: 281709
+coach: 
+-------
+fullName: Filip Misolic
+gender: M
+nationality: Austria
+birthPlace: Graz, Austria
+careerPrizeMoney: 194263
+coach: 
+-------
+fullName: Adam Walton
+gender: M
+nationality: Australia
+birthPlace: Brisbane
+careerPrizeMoney: 51482
+coach: 
+-------
+fullName: Luciano Darderi
+gender: M
+nationality: Italy
+birthPlace: Villa Gesell
+careerPrizeMoney: 143430
+coach: Luciano Enrique Darderi
+-------
+fullName: Tristan Schoolkate
+gender: M
+nationality: Australia
+birthPlace: Perth
+careerPrizeMoney: 166207
+coach: Andrew Roberts
+-------
+fullName: Sonay Kartal
+gender: F
+nationality: United Kingdom
+birthPlace: N/A
+careerPrizeMoney: 152654
+coach: 
+-------
+fullName: Polina Kudermetova
+gender: F
+nationality: 
+birthPlace: N/A
+careerPrizeMoney: 130119
+coach: 
+-------
+fullName: Linda Noskova
+gender: F
+nationality: Czech Republic
+birthPlace: Vsetin, Czech Republic
+careerPrizeMoney: 372947
+coach: 
+-------
+fullName: Dominic Stricker
+gender: M
+nationality: Switzerland
+birthPlace: Grosshochstetten, Switzerland
+careerPrizeMoney: 558186
+coach: Sven Swinnen
+-------
+fullName: Jessica Bouzas Maneiro
+gender: F
+nationality: Spain
+birthPlace: N/A
+careerPrizeMoney: 163570
+coach: 
+-------
+fullName: Erika Andreeva
+gender: F
+nationality: 
+birthPlace: Krasnoyarsk, Russia
+careerPrizeMoney: 197356
+coach: 
+-------
+fullName: Linda Fruhvirtova
+gender: F
+nationality: Czech Republic
+birthPlace: Prague, Czech Republic
+careerPrizeMoney: 667560
+coach: 
+-------
+fullName: Robin Montgomery
+gender: F
+nationality: United States of America
+birthPlace: N/A
+careerPrizeMoney: 262151
+coach: 
+-------
+fullName: Talia Gibson
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 136046
+coach: 
+-------
+fullName: Zhenzhen Zhu
+gender: F
+nationality: China
+birthPlace: Shandong
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Alfie Hewett
+gender: M
+nationality: United Kingdom
+birthPlace: Cantley, Norfolk
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Henry Patten
+gender: M
+nationality: United Kingdom
+birthPlace: Colchester
+careerPrizeMoney: 84537
+coach: 
+-------
+fullName: Luca Van Assche
+gender: M
+nationality: France
+birthPlace: Woluwe St Lambert
+careerPrizeMoney: 200046
+coach: Yannick Quere
+-------
+fullName: Leandro Riedi
+gender: M
+nationality: Switzerland
+birthPlace: Frauenfeld
+careerPrizeMoney: 147523
+coach: Yves Allegro
+-------
+fullName: Barbora Palicova
+gender: F
+nationality: Czech Republic
+birthPlace: N/A
+careerPrizeMoney: 88435
+coach: 
+-------
+fullName: Leyre Romero Gormaz
+gender: F
+nationality: Spain
+birthPlace: N/A
+careerPrizeMoney: 78073
+coach: 
+-------
+fullName: Tara Wurth
+gender: F
+nationality: Croatia
+birthPlace: N/A
+careerPrizeMoney: 89005
+coach: 
+-------
+fullName: Victoria Jimenez Kasintseva
+gender: F
+nationality: Andorra
+birthPlace: Andorra
+careerPrizeMoney: 254393
+coach: 
+-------
+fullName: Alexandra Eala
+gender: F
+nationality: Philippines
+birthPlace: Quezon City, Philippines
+careerPrizeMoney: 85450
+coach: 
+-------
+fullName: Li Tu
+gender: M
+nationality: Australia
+birthPlace: Adelaide, Australia
+careerPrizeMoney: 219504
+coach: 
+-------
+fullName: Sam Schroder
+gender: M
+nationality: Netherlands
+birthPlace: Geleen, Netherlands
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Lucy Shuker
+gender: F
+nationality: United Kingdom
+birthPlace: Qatar
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Angelica Bernal
+gender: F
+nationality: Colombia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Macarena Cabrillana
+gender: F
+nationality: Chile
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Momoko Ohtani
+gender: F
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Niels Vink
+gender: M
+nationality: Netherlands
+birthPlace: Helmond, Netherlands
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Kilian Feldbausch
+gender: M
+nationality: Switzerland
+birthPlace: Geneva
+careerPrizeMoney: 6281
+coach: 
+-------
+fullName: Petra Marcinko
+gender: F
+nationality: Croatia
+birthPlace: N/A
+careerPrizeMoney: 68357
+coach: 
+-------
+fullName: Bruno Kuzuhara
+gender: M
+nationality: United States of America
+birthPlace: Sao Paulo, Brazil
+careerPrizeMoney: 78014
+coach: 
+-------
+fullName: Sara Bejlek
+gender: F
+nationality: Czech Republic
+birthPlace: N/A
+careerPrizeMoney: 226349
+coach: 
+-------
+fullName: Ben Shelton
+gender: M
+nationality: United States of America
+birthPlace: Atlanta, GA, USA
+careerPrizeMoney: 683773
+coach: Bryan Shelton, Dean Goldfine
+-------
+fullName: Juncheng Shang
+gender: M
+nationality: China
+birthPlace: Beijing, China
+careerPrizeMoney: 211823
+coach: Dante Bottini
+-------
+fullName: Diana Shnaider
+gender: F
+nationality: 
+birthPlace: N/A
+careerPrizeMoney: 186249
+coach: 
+-------
+fullName: Carolina Xavier Laydner
+gender: F
+nationality: Brazil
+birthPlace: N/A
+careerPrizeMoney: 1485
+coach: 
+-------
+fullName: James McCabe
+gender: M
+nationality: Australia
+birthPlace: Iba Zambales, Philippines
+careerPrizeMoney: 74059
+coach: Patrick McCabe
+-------
+fullName: Arthur Gea
+gender: M
+nationality: France
+birthPlace: Carpentras
+careerPrizeMoney: 2505
+coach: Tarik benhabiles
+-------
+fullName: Kyle Kang
+gender: M
+nationality: United States of America
+birthPlace: Fullerton
+careerPrizeMoney: 6039
+coach: Dave Mann
+-------
+fullName: Philip Sekulic
+gender: M
+nationality: Australia
+birthPlace: Subiaco
+careerPrizeMoney: 62793
+coach: Tomo Sekulic, Mark Draper
+-------
+fullName: Edward Winter
+gender: M
+nationality: Australia
+birthPlace: Adelaide
+careerPrizeMoney: 59783
+coach: Jack Schipanski
+-------
+fullName: Joao Fonseca
+gender: M
+nationality: Brazil
+birthPlace: 
+careerPrizeMoney: 4410
+coach: 
+-------
+fullName: Brenda Fruhvirtova
+gender: F
+nationality: Czech Republic
+birthPlace: N/A
+careerPrizeMoney: 122309
+coach: 
+-------
+fullName: Charlie Camus
+gender: M
+nationality: Australia
+birthPlace: Canberra
+careerPrizeMoney: 4386
+coach: Olivier Camus
+-------
+fullName: Hayden Jones
+gender: M
+nationality: Australia
+birthPlace: Auchenflower
+careerPrizeMoney: 1532
+coach: 
+-------
+fullName: Zachary Viiala
+gender: M
+nationality: Australia
+birthPlace: Subiaco
+careerPrizeMoney: 260
+coach: 
+-------
+fullName: Stefani Webb
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 1448
+coach: 
+-------
+fullName: Mirra Andreeva
+gender: F
+nationality: 
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Tom Egberink
+gender: M
+nationality: Netherlands
+birthPlace: Hardenberg, Netherlands
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Jiske Griffioen
+gender: F
+nationality: Netherlands
+birthPlace: Woerden
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Dana Mathewson
+gender: F
+nationality: United States of America
+birthPlace: San Diego, California
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Donald Ramphadi
+gender: M
+nationality: South Africa
+birthPlace: Pretoria
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Tereza Valentova
+gender: F
+nationality: Czech Republic
+birthPlace: N/A
+careerPrizeMoney: 5432
+coach: 
+-------
+fullName: Hayu Kinoshita
+gender: F
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Roisin Gilheany
+gender: F
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Lennon Roark Jones
+gender: M
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Cara Black
+gender: F
+nationality: Zimbabwe
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Malwina Rowinska
+gender: F
+nationality: Poland
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Alexander Despoja
+gender: M
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Anna Paradisi
+gender: F
+nationality: Italy
+birthPlace: N/A
+careerPrizeMoney: 1498
+coach: 
+-------
+fullName: Luca Udvardy
+gender: F
+nationality: Hungary
+birthPlace: N/A
+careerPrizeMoney: 2816
+coach: 
+-------
+fullName: Learner Tien
+gender: M
+nationality: United States of America
+birthPlace: Irvine, CA, USA
+careerPrizeMoney: 86461
+coach: Eric Diaz
+-------
+fullName: Cooper Williams
+gender: M
+nationality: United States of America
+birthPlace: New York City
+careerPrizeMoney: 4503
+coach: 
+-------
+fullName: Nikola Daubnerova
+gender: F
+nationality: Slovakia
+birthPlace: N/A
+careerPrizeMoney: 5451
+coach: 
+-------
+fullName: Branko Djuric
+gender: M
+nationality: Serbia
+birthPlace: 
+careerPrizeMoney: 2001
+coach: 
+-------
+fullName: Sebastian Eriksson
+gender: M
+nationality: Sweden
+birthPlace: 
+careerPrizeMoney: 720
+coach: 
+-------
+fullName: Federico Bondioli
+gender: M
+nationality: Italy
+birthPlace: 
+careerPrizeMoney: 2848
+coach: 
+-------
+fullName: Alexander Blockx
+gender: M
+nationality: Belgium
+birthPlace: 
+careerPrizeMoney: 5323
+coach: 
+-------
+fullName: Kaylan Bigun
+gender: M
+nationality: United States of America
+birthPlace: 
+careerPrizeMoney: 984
+coach: 
+-------
+fullName: Iliyan Radulov
+gender: M
+nationality: Bulgaria
+birthPlace: 
+careerPrizeMoney: 720
+coach: 
+-------
+fullName: Meecah Bigun
+gender: M
+nationality: United States of America
+birthPlace: 
+careerPrizeMoney: 594
+coach: 
+-------
+fullName: Federico Cina
+gender: M
+nationality: Italy
+birthPlace: 
+careerPrizeMoney: 354
+coach: 
+-------
+fullName: Jan Hrazdil
+gender: M
+nationality: Czech Republic
+birthPlace: 
+careerPrizeMoney: 674
+coach: 
+-------
+fullName: Matic Kriznik
+gender: M
+nationality: Slovenia
+birthPlace: 
+careerPrizeMoney: 252
+coach: 
+-------
+fullName: Vivian Yang
+gender: F
+nationality: New Zealand
+birthPlace: N/A
+careerPrizeMoney: 9581
+coach: 
+-------
+fullName: Lily Taylor
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 2515
+coach: 
+-------
+fullName: Sonja Zhiyenbayeva
+gender: F
+nationality: Germany
+birthPlace: N/A
+careerPrizeMoney: 1430
+coach: 
+-------
+fullName: Mihai Alexandru Coman
+gender: M
+nationality: Romania
+birthPlace: 
+careerPrizeMoney: 1742
+coach: 
+-------
+fullName: Tomasz Berkieta
+gender: M
+nationality: Poland
+birthPlace: 
+careerPrizeMoney: 607
+coach: 
+-------
+fullName: Patrick Schoen
+gender: M
+nationality: Switzerland
+birthPlace: London
+careerPrizeMoney: 430
+coach: Pedro Felner
+-------
+fullName: Jeremy Jin
+gender: M
+nationality: Australia
+birthPlace: Sydney
+careerPrizeMoney: 24087
+coach: Gavin Van Peperzeel
+-------
+fullName: Derek Pham
+gender: M
+nationality: Australia
+birthPlace: Perth
+careerPrizeMoney: 21927
+coach: 
+-------
+fullName: Rei Sakamoto
+gender: M
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 1977
+coach: 
+-------
+fullName: Petra Hule
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 44679
+coach: 
+-------
+fullName: Theadora Rabman
+gender: F
+nationality: United States of America
+birthPlace: N/A
+careerPrizeMoney: 10464
+coach: 
+-------
+fullName: Alexander Frusina
+gender: M
+nationality: United States of America
+birthPlace: 
+careerPrizeMoney: 570
+coach: 
+-------
+fullName: Maxim Mrva
+gender: M
+nationality: Czech Republic
+birthPlace: 
+careerPrizeMoney: 252
+coach: 
+-------
+fullName: Francesca Pace
+gender: F
+nationality: Italy
+birthPlace: N/A
+careerPrizeMoney: 3105
+coach: 
+-------
+fullName: Ella McDonald
+gender: F
+nationality: United Kingdom
+birthPlace: N/A
+careerPrizeMoney: 18641
+coach: 
+-------
+fullName: Sarah Saito
+gender: F
+nationality: Japan
+birthPlace: N/A
+careerPrizeMoney: 3692
+coach: 
+-------
+fullName: Adriano Dzhenev
+gender: M
+nationality: Bulgaria
+birthPlace: 
+careerPrizeMoney: 636
+coach: 
+-------
+fullName: Atakan Karahan
+gender: M
+nationality: Turkey
+birthPlace: 
+careerPrizeMoney: 1156
+coach: 
+-------
+fullName: Nicolas Oliveira
+gender: M
+nationality: Brazil
+birthPlace: 
+careerPrizeMoney: 1020
+coach: 
+-------
+fullName: Ellie Daniels
+gender: F
+nationality: Canada
+birthPlace: N/A
+careerPrizeMoney: 756
+coach: 
+-------
+fullName: Keegan Rice
+gender: M
+nationality: Canada
+birthPlace: 
+careerPrizeMoney: 1345
+coach: 
+-------
+fullName: Ruslan Tiukaev
+gender: M
+nationality: 
+birthPlace: 
+careerPrizeMoney: 312
+coach: 
+-------
+fullName: Pavle Marinkov
+gender: M
+nationality: Australia
+birthPlace: Sydney
+careerPrizeMoney: 870
+coach: 
+-------
+fullName: Anja Nayar
+gender: F
+nationality: Australia
+birthPlace: N/A
+careerPrizeMoney: 1643
+coach: 
+-------
+fullName: Michal Krajci
+gender: M
+nationality: Slovakia
+birthPlace: 
+careerPrizeMoney: 751
+coach: 
+-------
+fullName: Hayato Matsuoka
+gender: M
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 1382
+coach: 
+-------
+fullName: Yi Zhou
+gender: M
+nationality: China
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Kevin Edengren
+gender: M
+nationality: Sweden
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Danil Panarin
+gender: M
+nationality: 
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Tianhui Zhang
+gender: M
+nationality: China
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Felipe Virgili Berini
+gender: M
+nationality: Italy
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Goran Zgola
+gender: M
+nationality: Poland
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Yuta Tomida
+gender: M
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Andrii Zimnokh
+gender: M
+nationality: Ukraine
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Jeremy Zhang
+gender: M
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Yuvan Nandal
+gender: M
+nationality: India
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Jules Leroux
+gender: M
+nationality: France
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Oliver Ojakaar
+gender: M
+nationality: Estonia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Aryan Shah
+gender: M
+nationality: India
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Joel Schwaerzler
+gender: M
+nationality: Austria
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Zoran Ludoski
+gender: M
+nationality: Serbia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Marcus Schoeman
+gender: M
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Hoyoung Roh
+gender: M
+nationality: South Korea
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Matej Dodig
+gender: M
+nationality: Croatia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Tiago Pires
+gender: M
+nationality: France
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Woohyuk Chang
+gender: M
+nationality: South Korea
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Reiya Hattori
+gender: M
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Abel Forger
+gender: M
+nationality: Netherlands
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Emilien DEMANET
+gender: M
+nationality: Belgium
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Lorenzo Carboni
+gender: M
+nationality: Italy
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Manas Dhamne
+gender: M
+nationality: India
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Volodymyr Iakubenko
+gender: M
+nationality: Ukraine
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Jakub Filip
+gender: M
+nationality: Czech Republic
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: David Fix
+gender: M
+nationality: Germany
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Vit Kalina
+gender: M
+nationality: Czech Republic
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Nina Vargova
+gender: F
+nationality: Slovakia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Darja Suvirdjonkova
+gender: F
+nationality: Serbia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Alina Korneeva
+gender: F
+nationality: 
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ella Seidel
+gender: F
+nationality: Germany
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Naomi XU
+gender: F
+nationality: Canada
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Amelie Smejkalova
+gender: F
+nationality: Czech Republic
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ranah Akua Stoiber
+gender: F
+nationality: United Kingdom
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Carolina Kuhl
+gender: F
+nationality: Germany
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ariana Anazagasty-Pursoo
+gender: F
+nationality: United States of America
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Irina Balus
+gender: F
+nationality: Slovakia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ela Nala Milic
+gender: F
+nationality: Slovenia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Renata Jamrichova
+gender: F
+nationality: Slovakia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Emerson Jones
+gender: F
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ena Koike
+gender: F
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Madeleine Jessup
+gender: F
+nationality: Chinese Taipei
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Yaroslava Bartashevich
+gender: F
+nationality: France
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Luciana Moyano
+gender: F
+nationality: Argentina
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Tatum Evans
+gender: F
+nationality: United States of America
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Mayu Crossley
+gender: F
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Sayaka Ishii
+gender: F
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Federica Urgesi
+gender: F
+nationality: Italy
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ashton Bowers
+gender: F
+nationality: United States of America
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Shruti Ahlawat
+gender: F
+nationality: India
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Yoana Konstantinova
+gender: F
+nationality: Bulgaria
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Melisa Ercan
+gender: F
+nationality: Turkey
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Weronika Ewald
+gender: F
+nationality: Poland
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Alevtina Ibragimova
+gender: F
+nationality: 
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ahmani Guichard
+gender: F
+nationality: United States of America
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Cara Maria Mester
+gender: F
+nationality: Romania
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ava Krug
+gender: F
+nationality: United States of America
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Wakana Sonobe
+gender: F
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Shiho Tsujioka
+gender: F
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Zara Larke
+gender: F
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Elizara Yaneva
+gender: F
+nationality: Bulgaria
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Rositsa Dencheva
+gender: F
+nationality: Bulgaria
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Mara Gae
+gender: F
+nationality: Romania
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Anya Murthy
+gender: F
+nationality: United States of America
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Rebecca Munk Mortensen
+gender: F
+nationality: Denmark
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Lily Fairclough
+gender: F
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Onyu Choi
+gender: F
+nationality: South Korea
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Malak El Allami
+gender: F
+nationality: Morocco
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Tania Isabel Andrade Sabando
+gender: F
+nationality: Ecuador
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Anastasia Grechkina
+gender: F
+nationality: 
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Lavinia Morreale
+gender: F
+nationality: Italy
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Maria Daciana Ciubotaru
+gender: F
+nationality: Romania
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Kristiana Sidorova
+gender: F
+nationality: 
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Alana Subasic
+gender: F
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Gabby Gregg
+gender: F
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Brendan Loh
+gender: M
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Hugh Winter
+gender: M
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Thomas Nicholas Gadecki
+gender: M
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Takashi Sanada
+gender: M
+nationality: Japan
+birthPlace: Nasushiobara, Japan
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ben Bartram
+gender: M
+nationality: United Kingdom
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Maikel Scheffers
+gender: M
+nationality: Netherlands
+birthPlace: S'hertogenbosch
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ruben Spaargaren
+gender: M
+nationality: Netherlands
+birthPlace: Aalsmeer
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Daisuke Arai
+gender: M
+nationality: Japan
+birthPlace: Tokyo, Japan
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Martin De la Puente
+gender: M
+nationality: Spain
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Casey Ratzlaff
+gender: M
+nationality: United States of America
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Takuya Miki
+gender: M
+nationality: Japan
+birthPlace: Kashiwa
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Andy Lapthorne
+gender: M
+nationality: United Kingdom
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Ymanitu Silva
+gender: M
+nationality: Brazil
+birthPlace: Florianopolis, Brazil
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Robert Shaw
+gender: M
+nationality: Canada
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Cooper Errey
+gender: M
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Yilin Yan
+gender: F
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Elicia Kim
+gender: F
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Rennae Stubbs
+gender: F
+nationality: Australia
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Barbara Schett
+gender: F
+nationality: Austria
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Tokito Oda
+gender: M
+nationality: Japan
+birthPlace: Ichinomiya, Japan
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Alexander Cataldo
+gender: M
+nationality: Chile
+birthPlace: Antofagasta
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Manami Tanaka
+gender: F
+nationality: Japan
+birthPlace: Tokyo, Japan
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Saki Takamuro
+gender: F
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Shiori Funamizu
+gender: F
+nationality: Japan
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Katharina Kruger
+gender: F
+nationality: Germany
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+fullName: Maria Florencia Moreno
+gender: F
+nationality: Argentina
+birthPlace: 
+careerPrizeMoney: 
+coach: 
+-------
+ERROR 
+-----------
+N/A 
+-----------
+N/A 
+-----------
